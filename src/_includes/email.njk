@@ -115,7 +115,7 @@ layout: "emailBase.njk"
                 <td class="background-primary col-pad" align="center">
                   <p class="ink-dark">
                     © <a href="{{ meta.senderWebsite }}">{{ meta.senderName }}</a> {% year %}<br/>
-                    <small class="ink-dark">{{ meta.senderAddress }} | <a href="{{ meta.unsubscribe }}">Unsubscribe</a></small>
+                    <small class="ink-dark">{{ meta.senderAddress }} | <a href="mailto:{{ meta.email }}">{{ meta.email }}</a> | <a aria-label="Phone number zero one one three two two two four four zero eight" href="tel:{{ meta.phone }}">{{ meta.phone }}</a></small>
                   </p>
                 </td>
               </tr>
