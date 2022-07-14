@@ -7,6 +7,12 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.setWatchThrottleWaitTime(100);
 
   eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
+  
+  // Shortcodes
+  // Add cache busting with {% version %} time string
+  eleventyConfig.addShortcode('version', function () {
+    return now
+  });
 
   eleventyConfig.addNunjucksAsyncFilter("emailHtml", (raw, callback) => {
     if (meta.environment === "prod") {
