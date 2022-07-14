@@ -1,4 +1,5 @@
 ---
+url: thanks/
 subject: Hello New Subscriber!
 preheader: So glad you've joined us!
 # hidePreheader: true
