@@ -6,7 +6,7 @@ module.exports = {
   senderAddress: "Leeds Register Office, Merrion House, Merrion Way, Leeds, LS2 8PD",
 
   // Company, website, or personal name
-  senderName: "Leeds Register Office",
+  senderName: "LEEDS.GOV.UK",
 
   senderWebsite: "https://www.leeds.gov.uk/births-deaths-and-marriages",
 
