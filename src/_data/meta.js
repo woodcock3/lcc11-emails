@@ -23,6 +23,7 @@ module.exports = {
   ctaButtonWidth: "200px",
   ctaButtonColor: "#c54dbd",
 
-  // Required link to method of unsubscribing from non-transactional emails
-  unsubscribe: "#",
+  // contact us
+  email: "register.headoffice@leeds.gov.uk",
+  phone: "0113 2224408",
 };
