@@ -1,4 +1,5 @@
 ---
+url: birth-confirmation/
 subject: Appointment confirmed to register a birth on {Appointment_AppointmentDate} at {Appointment_StartTime}
 preheader: So glad you've joined us!
 # hidePreheader: true
