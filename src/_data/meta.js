@@ -11,7 +11,7 @@ module.exports = {
   senderWebsite: "https://www.leeds.gov.uk/births-deaths-and-marriages",
 
   // absolute, full URL
-  logoUrl: "https://placehold.it/250x80?text=Logo",
+  // logoUrl: "https://placehold.it/250x80?text=Logo",
 
   // in pixels, but no unit
   logoHeight: "80",
