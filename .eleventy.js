@@ -1,5 +1,6 @@
 const juice = require("juice");
 const meta = require("./src/_data/meta");
+const now = String(Date.now());
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addWatchTarget("./src/sass/");
