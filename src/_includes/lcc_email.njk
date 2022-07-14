@@ -68,6 +68,7 @@ layout: "emailBase.njk"
                   </div>
                 </td>
               </tr>
+              {% if meta.logoUrl %}
               {% emailSpacer %}
               <tr>
                 <td align="center" class="col-pad">
@@ -81,6 +82,7 @@ layout: "emailBase.njk"
                   </center>
                 </td>
               </tr>
+              {% endif %}
               {%- if heroImg %}
               {% emailSpacer %}
               <tr>
