@@ -1,18 +1,17 @@
 ---
 url: birth-confirmation/
 subject: Appointment confirmed to register a birth on {Appointment_AppointmentDate} at {Appointment_StartTime}
-preheader: So glad you've joined us!
+preheader: Leeds registrars birth appointment 
 # hidePreheader: true
-heroImg: http://placecorgi.com/600/300
-heroImgHeight: 300
-headline: Leeds.gov.uk
-ctaText: "Change or cancel"
-ctaLink: "https://11ty.rocks"
+# heroImg: http://placecorgi.com/600/300
+# heroImgHeight: 300
+headline: Appointment confirmed
+# ctaText: "Change or cancel"
+# ctaLink: "https://11ty.rocks"
 ---
 
 Dear {Appointment_LetterRecipient}
 
-# Appointment confirmed
 Your {Appointment_AppointmentType} is booked for: 
 
 Date: {Appointment_AppointmentDate}
