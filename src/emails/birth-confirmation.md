@@ -15,11 +15,14 @@ Dear {Appointment_LetterRecipient}
 # Appointment confirmed
 Your {Appointment_AppointmentType} is booked for: 
 
-Date: {Appointment_AppointmentDate} 
+Date: {Appointment_AppointmentDate}
+
 Time: {Appointment_StartTime}
+
 Location: {Appointment_Office_Address1}, {Appointment_Office_Address2}, {Appointment_Office_Town}, {Appointment_Office_PostCode}
 
-[Get directions on google maps]({Appointment_Office_MapLink})
+<a href="{Appointment_Office_MapLink}">[Get directions on google maps]</a>
+
 Customer reference: {Appointment_Id}{Appointment_Office_EmailText}
 
 Please arrive 10 minutes before your scheduled appointment; late arrival will mean that you will not be seen and your appointment will be rebooked.
@@ -43,9 +46,9 @@ If you have requested an interpreter we will arrange one for you. If we are unab
 
 
 ## Change or cancel
-If you cannot attend your appointment, you can [change or cancel]({Appointment_RescheduleCancelLink}) it.
+If you cannot attend your appointment, you can <a href="{Appointment_RescheduleCancelLink}">change or cancel</a> it.
 Your change or cancel code is: {Appointment_RescheduleCancelCode}
 
 
 ## Your privacy
-Please see our [privacy policy](www.leeds.gov.uk/registrarsprivacy) for information on how we process your personal data.
+Please see our [privacy policy](https://www.leeds.gov.uk/registrarsprivacy) for information on how we process your personal data.
