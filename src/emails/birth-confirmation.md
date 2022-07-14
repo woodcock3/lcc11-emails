@@ -1,6 +1,6 @@
 ---
 subject: Appointment confirmed to register a birth on {Appointment_AppointmentDate} at {Appointment_StartTime}
-preheader: Leeds Registrars Birth Appointment 
+preheader: Registrars Birth Appointment 
 # hidePreheader: true
 # heroImg: http://placecorgi.com/600/300
 # heroImgHeight: 300
