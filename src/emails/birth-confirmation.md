@@ -21,7 +21,7 @@ Time: {Appointment_StartTime}
 
 Location: {Appointment_Office_Address1}, {Appointment_Office_Address2}, {Appointment_Office_Town}, {Appointment_Office_PostCode}
 
-<a href="{Appointment_Office_MapLink}">[Get directions on google maps]</a>
+<a href="{Appointment_Office_MapLink}">Get directions on google maps</a>
 
 Customer reference: {Appointment_Id}{Appointment_Office_EmailText}
 
