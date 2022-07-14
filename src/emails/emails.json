@@ -1,4 +1,4 @@
 {
-  "layout": "email.njk",
+  "layout": "lcc_email.njk",
   "tags": "emails"
 }
