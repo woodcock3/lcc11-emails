@@ -9,7 +9,7 @@ layout: "emailBase.njk"
     {% if subject %}{{ subject }} | {% endif %}{{ meta.senderName }}
   </title>
   <link
-    href="https://fonts.googleapis.com/css2?family=Arbutus+Slab&display=swap"
+    href="https://fonts.googleapis.com/css2?family=Arimo&display=swap"
     rel="stylesheet"
   />
   <!--[if gte mso 10]>
@@ -26,7 +26,7 @@ layout: "emailBase.njk"
     @media screen and (min-width: 1px) {
         h1,
         h2 {
-          font-family: "Arbutus Slab";
+          font-family: 'Arimo', sans-serif;
         }
     }
     {{ css | safe }}
