@@ -23,7 +23,7 @@
 
     <ul>
     {% for email in collections.emails %}
-      <li><a href="{{ email.url | url }}">{{ email.data.subject }}</a></li>
+      <li><a href="{{ email.url | url }}{% version %}">{{ email.data.subject }}</a></li>
     {% endfor %}
     </ul>
   </main>
