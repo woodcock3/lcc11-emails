@@ -1,5 +1,4 @@
 ---
-url: birth-confirmation/
 subject: Appointment confirmed to register a birth on {Appointment_AppointmentDate} at {Appointment_StartTime}
 preheader: Leeds registrars birth appointment 
 # hidePreheader: true
