@@ -3,12 +3,12 @@ module.exports = {
   environment: process.env.ELEVENTY_ENV,
 
   // Required in certain regions, like USA
-  senderAddress: "123 Sesame Street, Alphabet, FL 12345",
+  senderAddress: "Leeds Register Office, Merrion House, Merrion Way, Leeds, LS2 8PD",
 
   // Company, website, or personal name
-  senderName: "11ty Rocks",
+  senderName: "Leeds Register Office",
 
-  senderWebsite: "https://11ty.rocks",
+  senderWebsite: "https://www.leeds.gov.uk/births-deaths-and-marriages",
 
   // absolute, full URL
   logoUrl: "https://placehold.it/250x80?text=Logo",
@@ -16,7 +16,7 @@ module.exports = {
   // in pixels, but no unit
   logoHeight: "80",
 
-  logoAlt: "11ty Rocks!",
+  logoAlt: "Leeds.gov.uk",
 
   // These values required for full
   ctaButtonHeight: "40px",
