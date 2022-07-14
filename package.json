@@ -7,7 +7,7 @@
     "watch:sass": "sass  --no-source-map --watch src/sass:public/css",
     "watch:eleventy": "ELEVENTY_ENV=dev npx @11ty/eleventy --serve",
     "build:sass": "sass  --no-source-map src/sass:public/css",
-    "build:eleventy": "ELEVENTY_ENV=prod npx @11ty/eleventy --pathprefix=11ty-email-generator",
+    "build:eleventy": "ELEVENTY_ENV=prod npx @11ty/eleventy --pathprefix=lcc11-emails",
     "prefix": "postcss public/css/*.css -u autoprefixer -r",
     "start": "cross-env NODE_ENV=dev npm-run-all build:sass --parallel watch:*",
     "build": "cross-env NODE_ENV=production npm-run-all build:sass prefix build:eleventy"
