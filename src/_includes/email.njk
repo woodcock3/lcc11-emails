@@ -114,8 +114,7 @@ layout: "emailBase.njk"
               <tr class="background-primary">
                 <td class="background-primary col-pad" align="center">
                   <p class="ink-dark">
-                    © {% year %}
-                    <a href="{{ meta.senderWebsite }}">{{ meta.senderName }}</a><br/>
+                    © <a href="{{ meta.senderWebsite }}">{{ meta.senderName }}</a> {% year %}<br/>
                     <small class="ink-dark">{{ meta.senderAddress }} | <a href="{{ meta.unsubscribe }}">Unsubscribe</a></small>
                   </p>
                 </td>
