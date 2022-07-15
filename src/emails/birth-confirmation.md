@@ -15,7 +15,7 @@ Time: {Appointment_StartTime}
 
 Location: {Appointment_Office_Address1}, {Appointment_Office_Address2}, {Appointment_Office_Town}, {Appointment_Office_PostCode}
 
-<a class="button" href="{% raw %}{Appointment_Office_MapLink}{% endraw %}">Find us on google maps</a>
+<a class="button" href="{% raw %}{Appointment_Office_MapLink}{% endraw %}">Find us on Google maps</a>
 
 Customer reference: {Appointment_Id}{Appointment_Office_EmailText}
 
