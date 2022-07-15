@@ -13,7 +13,7 @@ Date: {Appointment_AppointmentDate}
 
 Time: {Appointment_StartTime} 
 
-<a href="{% raw %}{Appointment_Office_MapLink}{% endraw %}">Find us on google maps</a>
+<a class="button" href="{% raw %}{Appointment_Office_MapLink}{% endraw %}">Find us on google maps</a>
 
 Customer reference: {Appointment_Id}{Appointment_Office_EmailText}
 
@@ -42,9 +42,10 @@ And if applicable:
 - Their maiden name
 - The name, date of birth and occupation of their spouse or civil partner 
 
-
 ## Change or cancel
-If you cannot attend your appointment, you can <a href="{% raw %}{Appointment_RescheduleCancelLink}{% endraw %}">change or cancel</a> it. This needs to be done at least two working days before your appointment. Your change or cancel code is: {Appointment_RescheduleCancelCode}
+If you cannot attend your appointment, you can change or cancel it. This needs to be done at least two working days before your appointment. Your change or cancel code is: {Appointment_RescheduleCancelCode}.
+
+<a class="button"href="{% raw %}{Appointment_RescheduleCancelLink}{% endraw %}">Change or cancel</a>
 
 ## Tell us once
 Tell Us Once is a free service that lets you report a death to most government organisations in one go. At the appointment the registrar will explain the Tell Us Once service when you register the death. They will give you a unique reference number so you can use the service yourself online or by phone. For more information about Tell Us Once please visit: [GOV.UK](www.gov.uk/after-a-death/organisations-you-need-to-contact-and-tell-us-once)
