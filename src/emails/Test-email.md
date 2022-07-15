@@ -3,7 +3,7 @@ layout: "lcc_email.njk"
 subject: Credits
 preheader: So glad you've joined us!
 # hidePreheader: true
-heroImg: http://placecorgi.com/600/300
+heroImg: https://placecorgi.com/600/300
 heroImgHeight: 300
 headline: Test Email
 ctaText: "Contact us"
