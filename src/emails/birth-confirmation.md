@@ -44,9 +44,9 @@ If you have requested an interpreter we will arrange one for you. If we are unab
 
 
 ## Change or cancel
-If you cannot attend your appointment, you can [change or cancel {% svg "external-link" %}]({Appointment_RescheduleCancelLink}) it.
+If you cannot attend your appointment, you can [change or cancel]({Appointment_RescheduleCancelLink}) it.
 Your change or cancel code is: {Appointment_RescheduleCancelCode}
 
 
 ## Your privacy
-Please see our [privacy policy {% svg "external-link" %}](https://www.leeds.gov.uk/registrarsprivacy) for information on how we process your personal data.
+Please see our [privacy policy](https://www.leeds.gov.uk/registrarsprivacy) for information on how we process your personal data.
