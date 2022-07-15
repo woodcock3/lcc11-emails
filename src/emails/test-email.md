@@ -3,7 +3,7 @@ layout: "lcc_email.njk"
 subject: Credits
 preheader: So glad you've joined us!
 # hidePreheader: true
-heroImg: https://placecorgi.com/600/300
+heroImg: https://source.unsplash.com/random/600×300
 heroImgHeight: 300
 headline: Test Email
 ctaText: "Contact us"
@@ -12,7 +12,7 @@ ctaLink: "mailto:register.headoffice@leeds.gov.uk"
 
 Hi
 
-This is a test email with an image of Corgi's. The email templates are build using [11ty](https://11ty.dev) and the source code is available on [GitHub](https://github.com/woodcock3/lcc11-emails).
+This is a test email with a random image from [Unsplash](https://unsplash.com/). The email templates are build using [11ty](https://11ty.dev) and the source code is available on [GitHub](https://github.com/woodcock3/lcc11-emails).
 
 I hope this email template resource is helpful.
 
