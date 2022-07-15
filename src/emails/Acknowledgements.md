@@ -6,8 +6,8 @@ preheader: So glad you've joined us!
 heroImg: http://placecorgi.com/600/300
 heroImgHeight: 300
 headline: Email with image
-ctaText: "Leeds Register Office"
-ctaLink: "https://www.leeds.gov.uk/births-deaths-and-marriages"
+ctaText: "Contact us"
+ctaLink: "mailto:register.headoffice@leeds.gov.uk"
 ---
 
 Hi!
@@ -16,4 +16,4 @@ This is a test email with an image of Corgi's. The email templates are build usi
 
 I hope this email template resource is helpful.
 
-The original email template is built by [Stephanie Eckles](https://11ty.rocks/#email-generator) which I updated the npm packages and adapted for [Leeds City Council](https://www.leeds.gov.uk/) usage.
+The original email template is built by [Stephanie Eckles](https://11ty.rocks/#email-generator) which I updated the npm packages and adapted for [Leeds City Council](https://www.leeds.gov.uk/) usage. For more information about this html email template please contact Paul in the register office.
