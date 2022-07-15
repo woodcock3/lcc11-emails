@@ -1,7 +1,6 @@
 const juice = require("juice");
 const meta = require("./src/_data/meta");
 const now = String(Date.now());
-const svgContent = require('./shortcodes/svgcontent.js');
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addWatchTarget("./src/sass/");
@@ -16,9 +15,6 @@ module.exports = function (eleventyConfig) {
   
   // Get current Year for text in footer
   eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
-  
-  // Insert any .svg file with {% icon "github" %} saved in .assets/images/svg/
-  eleventyConfig.addShortcode('svg', svgContent);
   
   // Insert spacer for emails
   eleventyConfig.addShortcode(
