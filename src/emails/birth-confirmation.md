@@ -19,7 +19,7 @@ Time: {Appointment_StartTime}
 
 Location: {Appointment_Office_Address1}, {Appointment_Office_Address2}, {Appointment_Office_Town}, {Appointment_Office_PostCode}
 
-[Get directions on google maps]({Appointment_Office_MapLink})
+[Get directions on google maps]({Appointment_Office_MapLink}{% svg "external-link" %})
 
 Customer reference: {Appointment_Id}{Appointment_Office_EmailText}
 
@@ -44,9 +44,9 @@ If you have requested an interpreter we will arrange one for you. If we are unab
 
 
 ## Change or cancel
-If you cannot attend your appointment, you can [change or cancel]({Appointment_RescheduleCancelLink}) it.
+If you cannot attend your appointment, you can [change or cancel]({Appointment_RescheduleCancelLink}{% svg "external-link" %}) it.
 Your change or cancel code is: {Appointment_RescheduleCancelCode}
 
 
 ## Your privacy
-Please see our [privacy policy](https://www.leeds.gov.uk/registrarsprivacy) for information on how we process your personal data.
+Please see our [privacy policy](https://www.leeds.gov.uk/registrarsprivacy{% svg "external-link" %}) for information on how we process your personal data.
