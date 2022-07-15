@@ -15,7 +15,7 @@ Time: {Appointment_StartTime}
 
 Location: {Appointment_Office_Address1}, {Appointment_Office_Address2}, {Appointment_Office_Town}, {Appointment_Office_PostCode}
 
-{% include "partials/map-button.html %}
+{% include "partials/map-button.html" %}
 
 Customer reference: {Appointment_Id}{Appointment_Office_EmailText}
 
@@ -38,7 +38,7 @@ If you have requested an interpreter we will arrange one for you. If we are unab
 ## Change or cancel
 If you cannot attend your appointment, you can change or cancel it. This needs to be done at least two working days before your appointment. Your change or cancel code is: {Appointment_RescheduleCancelCode}
 
-{% include "partials/cancel-button.html %}
+{% include "partials/cancel-button.html" %}
 
 
 ## Your privacy
