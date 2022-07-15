@@ -1,5 +1,5 @@
 $color-primary: #003F55 !default;  // lcc dark blue
-$color-secondary: #682A7A !default;  // purple
+$color-secondary: #2E7D32 !default;  // lcc green
 $color-background: mix($color-primary, #fff, 40%);
 
 $brand-colors: (
@@ -33,7 +33,7 @@ $ink-colors: "text", "light", "dark" !default;
 // Add/remove to selectively generate `background` classes
 $background-colors: "primary", "secondary" !default;
 
-$link-color: color("secondary") !default;
+$link-color: color("primary") !default;
 $button-width: 250px !default;
 
 $strong-font-weight: 600 !default;
