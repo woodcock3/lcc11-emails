@@ -1,5 +1,5 @@
 ---
-layout: "email.njk"
+layout: "lcc_email.njk"
 subject: Acknowledgements
 preheader: So glad you've joined us!
 # hidePreheader: true
