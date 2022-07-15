@@ -23,7 +23,7 @@
 
     <ul>
     {% for email in collections.emails %}
-      {% assign crumbs = email.inputPath | split: '/' %}{%- assign current_page = crumbs.last %}
+      {% set crumbs = email.inputPath | split: '/' %}{%- set current_page = crumbs.last %}
       <li><a href="{{ email.url | url }}?v={% version %}">{{ current_page }}</a></li>
     {% endfor %}
     </ul>
