@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 svgContent = function(file) {  
-  let absFilePath = path.resolve(`assets/${file}.svg`) 
+  let absFilePath = path.resolve(`src/assets/${file}.svg`) 
 
   let svgData = fs.readFileSync(absFilePath, function(err, contents) {    
     if (err) {  
