@@ -20,10 +20,10 @@ module.exports = {
 
   logoAlt: "Leeds.gov.uk",
 
-  // These values required for full
+  // These values required for call to action button for recipient Microsoft emails
   ctaButtonHeight: "40px",
-  ctaButtonWidth: "200px",
-  ctaButtonColor: "#c54dbd",
+  ctaButtonWidth: "250px",
+  ctaButtonColor: "#2e7d32",
 
   // contact us
   email: "register.headoffice@leeds.gov.uk",
