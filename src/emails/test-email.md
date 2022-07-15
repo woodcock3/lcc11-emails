@@ -3,7 +3,7 @@ layout: "lcc_email.njk"
 subject: Credits
 preheader: So glad you've joined us!
 # hidePreheader: true
-heroImg: https://source.unsplash.com/random/300×300
+heroImg: https://source.unsplash.com/random/300×300/?sky
 heroImgHeight: 300
 headline: Test Email
 ctaText: "Contact us"
