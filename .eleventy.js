@@ -33,6 +33,7 @@ module.exports = function (eleventyConfig) {
   });
 
   return {
+    templateFormats: ['html', 'njk', 'liquid', 'md', '11ty.js'],
     dir: {
       input: "src",
       output: "dist",
