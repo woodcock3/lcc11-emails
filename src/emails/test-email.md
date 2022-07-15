@@ -9,7 +9,7 @@ headline: Test Email
 ctaText: "Contact us"
 ctaLink: "mailto:register.headoffice@leeds.gov.uk"
 btn-href: https://github.com/woodcock3/lcc11-emails/
-btn-text: GitHub
+btn-text: Email templates
 ---
 
 Hi
