@@ -40,8 +40,7 @@ If you have requested an interpreter we will arrange one for you. If we are unab
 
 
 ## Change or cancel
-If you cannot attend your appointment, you can change or cancel it.
-Your change or cancel code is: {Appointment_RescheduleCancelCode}
+If you cannot attend your appointment, you can change or cancel it. This needs to be done at least two working days before your appointment. Your change or cancel code is: {Appointment_RescheduleCancelCode}
 
 <a class="button" href="{% raw %}{Appointment_RescheduleCancelLink}{% endraw %}">Change or cancel</a>
 
