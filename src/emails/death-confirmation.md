@@ -1,12 +1,8 @@
 ---
 subject: Appointment confirmed to register a death on {Appointment_AppointmentDate} at {Appointment_StartTime}
 preheader: Registrars Appointment 
-# hidePreheader: true
-# heroImg: http://placecorgi.com/600/300
-# heroImgHeight: 300
+hidePreheader: true
 headline: Appointment confirmed
-# ctaText: "Change or cancel"
-# ctaLink: "https://11ty.rocks"
 ---
 
 Dear {Appointment_LetterRecipient}
