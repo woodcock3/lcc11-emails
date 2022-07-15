@@ -6,7 +6,7 @@ preheader: So glad you've joined us!
 heroImg: http://placecorgi.com/600/300
 heroImgHeight: 300
 headline: Email with image
-ctaText: "Contact us {% svg "external-link" %}"
+ctaText: "Contact us"
 ctaLink: "mailto:register.headoffice@leeds.gov.uk"
 ---
 
