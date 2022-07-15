@@ -111,14 +111,7 @@ layout: "emailBase.njk"
               </tr>
               {% endif %}
               {% emailSpacer %}
-              <tr class="background-primary">
-                <td class="background-primary col-pad" align="center">
-                  <p class="ink-light">
-                    © <a href="{{ meta.senderWebsite }}">{{ meta.senderName }}</a> {% year %}<br/>
-                    <small class="ink-light">{{ meta.senderAddress }} | <a href="mailto:{{ meta.email }}">{{ meta.email }}</a> | <a aria-label="{{ meta.ariaPhone }}" href="tel:{{ meta.phone }}">{{ meta.phone }}</a></small>
-                  </p>
-                </td>
-              </tr>
+              {% include "partials/footer.njk" %}
             </tbody>
           </table>
         </td>
