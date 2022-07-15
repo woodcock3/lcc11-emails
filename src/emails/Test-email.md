@@ -1,6 +1,6 @@
 ---
 layout: "lcc_email.njk"
-subject: Acknowledgements
+subject: Credits
 preheader: So glad you've joined us!
 # hidePreheader: true
 heroImg: http://placecorgi.com/600/300
