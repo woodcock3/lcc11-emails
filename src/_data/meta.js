@@ -20,12 +20,12 @@ module.exports = {
 
   logoAlt: "Leeds.gov.uk",
 
-  // These values required for call to action button for recipient Microsoft emails
+  // These values required for the call to action button (and all types of buttons) when recipients use Microsoft based emails
   ctaButtonHeight: "40px",
   ctaButtonWidth: "250px",
   ctaButtonColor: "#2e7d32",
 
-  // contact us
+  // Contact us
   email: "register.headoffice@leeds.gov.uk",
   phone: "0113 2224408",
   ariaPhone: "phone number zero one one three two two two four four zero eight",
