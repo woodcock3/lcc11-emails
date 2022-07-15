@@ -19,11 +19,11 @@
     <h1>{{ title }}</h1>
   </header>
   <main>
-    {{ content | safe }}
+    {{ content }}
 
     <ul>
     {% for email in collections.emails %}
-      {% set crumbs = email.inputPath | split: '/' %}{%- set current_page = crumbs.last %}
+      {% assign crumbs = email.inputPath | split: '/' %}{%- assign current_page = crumbs.last %}
       <li><a href="{{ email.url | url }}?v={% version %}">{{ current_page }}</a></li>
     {% endfor %}
     </ul>
