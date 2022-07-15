@@ -13,7 +13,7 @@ Date: {Appointment_AppointmentDate}
 
 Time: {Appointment_StartTime} 
 
-<a class="button" href="{% raw %}{Appointment_Office_MapLink}{% endraw %}">Find us on Google maps</a>
+{% include "partials/map-button.html" %}
 
 Customer reference: {Appointment_Id}{Appointment_Office_EmailText}
 
