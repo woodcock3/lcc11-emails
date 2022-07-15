@@ -23,7 +23,7 @@ module.exports = {
   // These values required for the call to action button (and all types of buttons) when recipients use Microsoft based emails
   ctaButtonHeight: "40px",
   ctaButtonWidth: "250px",
-  ctaButtonColor: "#2e7d32",
+  ctaButtonColor: "#2e7d32",  // LCC green
 
   // Contact us
   email: "register.headoffice@leeds.gov.uk",
