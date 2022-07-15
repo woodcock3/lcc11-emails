@@ -10,7 +10,7 @@ module.exports = {
 
   senderWebsite: "https://www.leeds.gov.uk/births-deaths-and-marriages",
   heroTitle: "LEEDS.GOV.UK",
-  heroSubtitle: "An automated email from Leeds City Council.",
+  heroSubtitle: "An automated email from Leeds City Council",
   
   // absolute, full URL
   // logoUrl: "https://placehold.it/250x80?text=Logo",
