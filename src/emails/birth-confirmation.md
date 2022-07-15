@@ -15,7 +15,7 @@ Time: {Appointment_StartTime}
 
 Location: {Appointment_Office_Address1}, {Appointment_Office_Address2}, {Appointment_Office_Town}, {Appointment_Office_PostCode}
 
-<a href="{% raw %}{Appointment_Office_MapLink}{% endraw %}">Get directions on google maps</a>
+<a class="button" href="{% raw %}{Appointment_Office_MapLink}{% endraw %}">Find us on google maps</a>
 
 Customer reference: {Appointment_Id}{Appointment_Office_EmailText}
 
@@ -40,8 +40,10 @@ If you have requested an interpreter we will arrange one for you. If we are unab
 
 
 ## Change or cancel
-If you cannot attend your appointment, you can <a href="{% raw %}{Appointment_RescheduleCancelLink}{% endraw %}">change or cancel</a> it.
+If you cannot attend your appointment, you can change or cancel it.
 Your change or cancel code is: {Appointment_RescheduleCancelCode}
+
+<a class="button" href="{% raw %}{Appointment_RescheduleCancelLink}{% endraw %}">Change or cancel</a>
 
 
 ## Your privacy
