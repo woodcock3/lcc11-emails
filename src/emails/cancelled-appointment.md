@@ -1,5 +1,5 @@
 ---
-subject: Appointment confirmed to register a birth on {Appointment_AppointmentDate} at {Appointment_StartTime}
+subject: Cancelled registrars appointment
 preheader: Registrars Birth Appointment 
 hidePreheader: true
 headline: Appointment cancelled
