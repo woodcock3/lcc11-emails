@@ -22,7 +22,6 @@ Customer reference: {Appointment_Id}{Appointment_Office_EmailText}
 Please arrive 10 minutes before your scheduled appointment; late arrival will mean that you will not be seen and your appointment will be rebooked.
 
 ## Do not forget
-==========
 You must bring documents for each person attending the appointment.
 
 We will need to see evidence of your:
