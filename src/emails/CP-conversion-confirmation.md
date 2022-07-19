@@ -1,5 +1,5 @@
 ---
-subject: Appointment confirmed to register a birth on {Appointment_AppointmentDate} at {Appointment_StartTime}
+subject: Civil partnership conversion appointment confirmed on {Appointment_AppointmentDate} at {Appointment_StartTime}
 preheader: Registrars Appointment 
 hidePreheader: true
 headline: Appointment confirmed
