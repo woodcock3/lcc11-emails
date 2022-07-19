@@ -31,8 +31,7 @@ We will need to see evidence of your:
 
 We will also need to see your original civil partnership certificate.
 
-Converting with an optional ceremony
-============================
+## Converting with an optional ceremony
 You can choose to delay the signing of the ‘conversion to marriage’ declaration and include this as part of a separate ceremony. If you would like a ceremony, this can be held at the Civic Hall or at any of our licensed venues. We will discuss this with you at your appointment. Visit [leeds.gov.uk](www.leeds.gov.uk/births-deaths-and-marriages/ceremonies/ceremonies-at-licensed-venues) for the contact details for each venue.
  
 ## Change or cancel
