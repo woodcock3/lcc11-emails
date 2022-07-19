@@ -23,7 +23,7 @@ module.exports = function (eleventyConfig) {
       `<tr><td class="spacer${size ? `-${size}` : ""}">&#32;</td></tr>`
   );
   
-  /* FILTERS */
+  /* PRODUCTION OR DEV */
   eleventyConfig.addNunjucksAsyncFilter("emailHtml", (raw, callback) => {
     if (meta.environment === "prod") {
       callback(null, juice(raw));
