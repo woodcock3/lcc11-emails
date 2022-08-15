@@ -8,13 +8,11 @@ headline: Certificate order confirmation
 Dear {CopyCertificate_GivenName} {CopyCertificate_Surname}
 
 ## Certificate request submitted
-
-Order reference: {CopyCertificate_DuplicateCertificateId}
-Date submitted: {CopyCertificate_PaidDate}
+<p>Order reference: {CopyCertificate_DuplicateCertificateId}</p>
+<p>Date submitted: {CopyCertificate_PaidDate}</p>
 
 
 ## Certificate Order Summary
-
 You have ordered the following certificate(s):
 {CopyCertificate_HtmlAllCertificateDetails}
 If there are any issues with the order above please email us at <a href="mailto:register.headoffice@leeds.gov.uk">register.headoffice@leeds.gov.uk</a> to amend your order.
