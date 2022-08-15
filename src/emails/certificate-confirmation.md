@@ -15,7 +15,7 @@ Dear {CopyCertificate_GivenName} {CopyCertificate_Surname}
 ## Certificate Order Summary
 You have ordered the following certificate(s):
 {CopyCertificate_HtmlAllCertificateDetails}
-If there are any issues with the order above please email us at <a href="mailto:register.headoffice@leeds.gov.uk">register.headoffice@leeds.gov.uk</a> to amend your order.
+<p>If there are any issues with the order above please email us at <a href="mailto:register.headoffice@leeds.gov.uk">register.headoffice@leeds.gov.uk</a> to amend your order.</p>
 
 
 ## Your Details
@@ -31,7 +31,7 @@ Priority certificates are sent out by post the next working day and standard cer
 
 
 ## If you have selected delivery for your certificate(s)
-Delivery Address (if applicable): {CopyCertificate_DeliveryAddressLine1} {CopyCertificate_DeliveryAddressLine2}, {CopyCertificate_DeliveryAddressLine3} {CopyCertificate_DeliveryTown} {CopyCertificate_DeliveryPostCode} {CopyCertificate_DeliveryCountry}
+Delivery Address (if applicable): {CopyCertificate_DeliveryAddressLine1} {CopyCertificate_DeliveryAddressLine2} {CopyCertificate_DeliveryAddressLine3} {CopyCertificate_DeliveryTown} {CopyCertificate_DeliveryPostCode} {CopyCertificate_DeliveryCountry}
 
 
 ## Your privacy
