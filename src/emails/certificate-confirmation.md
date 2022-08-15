@@ -1,8 +1,8 @@
 ---
-subject: Appointment confirmed to register a birth on {Appointment_AppointmentDate} at {Appointment_StartTime}
-preheader: Registrars Birth Appointment 
+subject: Copy Certificate Order Confirmation
+preheader: Copy certificate order confirmation
 hidePreheader: true
-headline: Appointment confirmed
+headline: Certificate order confirmation
 ---
 
 Dear {CopyCertificate_GivenName} {CopyCertificate_Surname}
