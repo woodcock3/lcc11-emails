@@ -16,7 +16,7 @@ Date submitted: {CopyCertificate_PaidDate}
 ## Certificate Order Summary
 
 You have ordered the following certificate(s):
-{CopyCertificate_PlainTextAllCertificateDetails}
+{CopyCertificate_HtmlAllCertificateDetails}
 If there are any issues with the order above please email us at <a href="mailto:register.headoffice@leeds.gov.uk">register.headoffice@leeds.gov.uk</a> to amend your order.
 
 
