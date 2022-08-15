@@ -45,7 +45,7 @@ Opening hours:
 <p>Mon, Tues, Thu, Fri: 8:30 - 16:30</p>
 <p>Wed: 9:30 - 16:30</p>
 
-<p>T: <a href="tel:0113 2224408">0113 2224408</a></p>
+<p>T: <a href="tel:+441132224408">0113 2224408</a></p>
 <p>E: <a href="mailto:register.headoffice@leeds.gov.uk">register.headoffice@leeds.gov.uk</a></p>
 
 
