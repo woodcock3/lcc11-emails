@@ -34,20 +34,5 @@ Priority certificates are sent out by post the next working day and standard cer
 Delivery Address (if applicable): {CopyCertificate_DeliveryAddressLine1} {CopyCertificate_DeliveryAddressLine2}, {CopyCertificate_DeliveryAddressLine3} {CopyCertificate_DeliveryTown} {CopyCertificate_DeliveryPostCode} {CopyCertificate_DeliveryCountry}
 
 
-## Contact us
-Leeds Register Office
-Merrion House
-Merrion Way
-Leeds
-LS2 8BB
-
-Opening hours: 
-<p>Mon, Tues, Thu, Fri: 8:30 - 16:30</p>
-<p>Wed: 9:30 - 16:30</p>
-
-<p>T: <a href="tel:+441132224408">0113 2224408</a></p>
-<p>E: <a href="mailto:register.headoffice@leeds.gov.uk">register.headoffice@leeds.gov.uk</a></p>
-
-
 ## Your privacy
 Please see our [privacy policy](https://www.leeds.gov.uk/registrarsprivacy) for information on how we process your personal data.
