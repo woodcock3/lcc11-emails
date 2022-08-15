@@ -19,8 +19,8 @@ If there are any issues with the order above please email us at <a href="mailto:
 
 
 ## Your Details
-Name: {CopyCertificate_GivenName} {CopyCertificate_Surname}
-Address: {CopyCertificate_AddressLine1} {CopyCertificate_AddressLine2} {CopyCertificate_AddressLine3} {CopyCertificate_Town} {CopyCertificate_PostCode}
+<p>Name: {CopyCertificate_GivenName} {CopyCertificate_Surname}</p>
+<p>Address: {CopyCertificate_AddressLine1} {CopyCertificate_AddressLine2} {CopyCertificate_AddressLine3} {CopyCertificate_Town} {CopyCertificate_PostCode}</p>
 <p>T: {CopyCertificate_Mobile}</p>
 <p>E: {CopyCertificate_Email}</p>
 
