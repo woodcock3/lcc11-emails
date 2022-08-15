@@ -12,20 +12,20 @@ Dear {CopyCertificate_GivenName} {CopyCertificate_Surname}
 <p>Date submitted: {CopyCertificate_PaidDate}</p>
 
 
-## Certificate Order Summary
+## Certificate order summary
 You have ordered the following certificate(s):
 {CopyCertificate_HtmlAllCertificateDetails}
 <p>If there are any issues with the order above please email us at <a href="mailto:register.headoffice@leeds.gov.uk">register.headoffice@leeds.gov.uk</a> to amend your order.</p>
 
 
-## Your Details
+## Your details
 <p>Name: {CopyCertificate_GivenName} {CopyCertificate_Surname}</p>
 <p>Address: {CopyCertificate_AddressLine1} {CopyCertificate_AddressLine2} {CopyCertificate_AddressLine3} {CopyCertificate_Town} {CopyCertificate_PostCode}</p>
 <p>T: {CopyCertificate_Mobile}</p>
 <p>E: {CopyCertificate_Email}</p>
 
 
-## Delivery or Collection 
+## Delivery or collection 
 To be {CopyCertificate_SentMethod}. Please check [leeds.gov.uk](https://www.leeds.gov.uk/births-deaths-and-marriages/certificates/order-copy-certificates) for information on when we expect to process your order.
 Priority certificates are sent out by post the next working day and standard certificates are usually sent out by post within 21 days.
 
