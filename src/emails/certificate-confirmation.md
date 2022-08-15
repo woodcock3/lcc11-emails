@@ -26,7 +26,7 @@ E: {CopyCertificate_Email}
 
 
 ## Delivery or Collection 
-To be {CopyCertificate_SentMethod}. Please check our [website](www.leeds.gov.uk/births-deaths-and-marriages/certificates/order-copy-certificates](https://www.leeds.gov.uk/births-deaths-and-marriages/certificates/order-copy-certificates) for information on when we expect to process your order.
+To be {CopyCertificate_SentMethod}. Please check [leeds.gov.uk](https://www.leeds.gov.uk/births-deaths-and-marriages/certificates/order-copy-certificates0 for information on when we expect to process your order.
 Priority certificates are sent out by post the next working day and standard certificates are usually sent out by post within 21 days.
 
 
@@ -42,11 +42,11 @@ Leeds
 LS2 8BB
 
 Opening hours: 
-Mon, Tues, Thu, Fri: 8:30 - 16:30 
-Wed: 9:30 - 16:30
+<p>Mon, Tues, Thu, Fri: 8:30 - 16:30</p>
+<p>Wed: 9:30 - 16:30</p>
 
-T: 0113 2224408
-E: register.headoffice@leeds.gov.uk
+<p>T: <a href="tel:0113 2224408">0113 2224408</a></p>
+<p>E: <a href="mailto:register.headoffice@leeds.gov.uk">register.headoffice@leeds.gov.uk</a></p>
 
 
 ## Your privacy
