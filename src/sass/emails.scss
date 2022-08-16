@@ -81,6 +81,11 @@ h2 {
   -webkit-text-size-adjust: none;
 }
 
+// Blockquote to place a solid line on left
+.blockquote p {
+  border-left:	2px solid color("light");
+}
+
 /* Utilities */
 
 .col-pad-left,
