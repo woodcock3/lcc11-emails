@@ -1,5 +1,5 @@
 ---
-subject: Confirmation of your ceremony booking on {Booking_DateOfCeremony} at {Booking_Venues_Name}
+subject: Your ceremony fees are due for your {Booking_TypeOfBooking}
 preheader: Ceremony payment needed 
 hidePreheader: true
 headline: Your ceremony booking
