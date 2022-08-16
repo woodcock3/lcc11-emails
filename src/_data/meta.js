@@ -27,6 +27,6 @@ module.exports = {
 
   // Contact us
   email: "register.headoffice@leeds.gov.uk",
-  phone: "0113 2224408",
+  phone: "+441132224408",
   ariaPhone: "phone number zero one one three two two two four four zero eight",
 };
