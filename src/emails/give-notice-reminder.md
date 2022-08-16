@@ -26,7 +26,9 @@ If one (or both) of you are subject to immigration control, you both must give n
 
 ## Provisional ceremony details:
 Venue for {Booking_TypeOfBooking} ceremony: {Booking_Venues_Name}
+
 Date: {Booking_DateOfCeremony}
+
 Time: {Booking_TimeOfCeremony}
 
 Booking reference: {Booking_pkId} (You will need this reference number when paying the final ceremony fee). 
