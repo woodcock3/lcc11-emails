@@ -82,7 +82,7 @@ h2 {
 }
 
 // Blockquote to place a solid line on left
-.blockquote {
+.blockquote[type=cite] {
   border-left:	2px solid red;
 }
 
