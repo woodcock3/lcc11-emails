@@ -7,7 +7,7 @@ headline: Appointment confirmed
 
 Hi {Appointment_LetterRecipient}
 
-Your {Appointment_AppointmentType} is booked for:
+Your notice appointment is booked for:
 
 Date: {Appointment_AppointmentDate} 
 
