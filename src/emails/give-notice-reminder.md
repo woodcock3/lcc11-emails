@@ -16,10 +16,10 @@ This email is to remind you that before you can get married or form a civil part
 ## Where to give notice
 Usually, you give notice at your local register office. If you live in Leeds, you must give notice in Leeds unless you or your partner are subject to immigration control. Please visit, [leeds.gov.uk](https://www.leeds.gov.uk/births-deaths-and-marriages/ceremonies/giving-your-notice-of-marriage-or-civil-partnership) to book an appointment.
 
-> People who are not subject to immigration control are: 
->  - British citizens
->  - Irish citizens
->  - A person who has settled or pre-settled status under the [EU Settlement Scheme](https://www.gov.uk/settled-status-eu-citizens-families)
+People who are **not subject to immigration control** are: 
+  - British citizens
+  - Irish citizens
+  - A person who has settled or pre-settled status under the [EU Settlement Scheme](https://www.gov.uk/settled-status-eu-citizens-families)
 
 If one (or both) of you are subject to immigration control, you both must give notice together at a register office in the council area in which one of you live. If one of you lives in Leeds, you can give notice in Leeds. Please visit, [leeds.gov.uk](https://www.leeds.gov.uk/births-deaths-and-marriages/ceremonies/giving-your-notice-of-marriage-or-civil-partnership) to book a notice appointment. Otherwise you must book an appointment at your local Register Office. {Booking_LetterAdditionalText}
 
