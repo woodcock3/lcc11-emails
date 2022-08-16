@@ -1,8 +1,8 @@
 ---
 subject: Registrars appointment reminder for {Appointment_AppointmentDate}
-preheader: Registrars Appointment 
+preheader: Registrars Appointment reminder
 hidePreheader: true
-headline: Appointment confirmed
+headline: Appointment reminder
 ---
 
 Dear {Appointment_LetterRecipient}
