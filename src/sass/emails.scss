@@ -82,8 +82,8 @@ h2 {
 }
 
 // Blockquote to place a solid line on left
-.blockquote p {
-  border-left:	2px solid color("light");
+.blockquote {
+  border-left:	2px solid red;
 }
 
 /* Utilities */
