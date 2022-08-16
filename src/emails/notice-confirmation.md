@@ -40,7 +40,7 @@ You must bring your own interpreter to the appointment if either you or your par
 
 
 ## Your ceremony venue
-Your ceremony must take place at the venue named on your notice. If you want to change the ceremony venue you will need to book and pay for another notice appointment.
+Your ceremony must take place at the venue named on your notice. If after giving notice, you want to change the ceremony venue you will need to book and pay for another notice appointment.
 
 
 ## If your ceremony is in another country
