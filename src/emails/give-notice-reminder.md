@@ -35,7 +35,7 @@ Booking reference: {Booking_pkId} (You will need this reference number when payi
 
 
 ## Cancellations and changes
-Leeds Register Office reserves the right to cancel your ceremony if you fail to give notice and/or do not pay the ceremony fee at least 3 months before the date of the {Booking_TypeOfBooking}. If this ceremony booking is not happening, please email {Booking_District_EmailAddress} as soon as possible to change or cancel it.
+Leeds Register Office reserves the right to cancel your ceremony if you fail to give notice and/or do not pay the ceremony fee at least 3 months before the date of the {Booking_TypeOfBooking}. If this ceremony booking is not happening, please email <a href="mailto:{Booking_District_EmailAddress}">{Booking_District_EmailAddress}</a> as soon as possible to change or cancel it.
 
 
 ## Your privacy and terms and conditions
