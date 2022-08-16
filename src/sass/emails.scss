@@ -82,8 +82,18 @@ h2 {
 }
 
 // Blockquote to place a solid line on left
-.blockquote[type=cite] {
-  border-left:	2px solid red;
+blockquote {
+  margin: 0 0 4px 0;
+  border-left: 2px solid red;
+  padding: 0.7rem 1.5rem;
+  
+  p,
+  ol,
+  ul,
+  dl,
+  table {
+    margin-bottom: 0;
+  }
 }
 
 /* Utilities */
