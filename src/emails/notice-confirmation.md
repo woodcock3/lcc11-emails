@@ -25,11 +25,11 @@ Please arrive 10 minutes before your appointment; late arrival will mean that yo
 ## Documents
 You both must bring a recent passport photo (if one of you is not British, Irish or have EU settled status).
 
-{MarriageAppointment_Notice1Name}{CivilAppointment_Notice1Name} who is {MarriageAppointment_Notice1NationalityText}{CivilAppointment_Notice1NationalityText} must bring:
-{Appointment_Required_Documents_Contact_1}
+> {MarriageAppointment_Notice1Name}{CivilAppointment_Notice1Name} who is {MarriageAppointment_Notice1NationalityText} {CivilAppointment_Notice1NationalityText} must bring:
+> {Appointment_Required_Documents_Contact_1}
 
-{MarriageAppointment_Notice2Name}{CivilAppointment_Notice2Name} who is {MarriageAppointment_Notice2NationalityText}{CivilAppointment_Notice2NationalityText} must bring:
-{Appointment_Required_Documents_Contact_2}
+> {MarriageAppointment_Notice2Name}{CivilAppointment_Notice2Name} who is {MarriageAppointment_Notice2NationalityText}{CivilAppointment_Notice2NationalityText} must bring:
+> {Appointment_Required_Documents_Contact_2}
 
 
 For further information please see the attached Giving Notice checklist regarding the documents you will need to bring to the appointment.
