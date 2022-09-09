@@ -19,13 +19,13 @@
   "author": "5t3ph",
   "license": "ISC",
   "devDependencies": {
-    "@11ty/eleventy": "^1.0.1",
+    "@11ty/eleventy": "^1.0.2",
     "autoprefixer": "^10.4.8",
     "cross-env": "^7.0.3",
-    "juice": "^8.0.0",
+    "juice": "^8.0.1",
     "npm-run-all": "^4.1.5",
     "postcss-cli": "^10.0.0",
-    "sass": "^1.54.0"
+    "sass": "^1.54.8"
   },
   "browserslist": [
     "> 0.5%",
