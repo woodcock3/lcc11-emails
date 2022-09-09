@@ -25,7 +25,7 @@
     "juice": "^8.0.1",
     "npm-run-all": "^4.1.5",
     "postcss-cli": "^10.0.0",
-    "sass": "^1.54.8"
+    "sass": "^1.54.9"
   },
   "browserslist": [
     "> 0.5%",
