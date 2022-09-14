@@ -24,6 +24,10 @@ Booking reference: {Booking_pkId} (You will need this reference number when payi
   - Pay the remaining ceremony fee of £{Booking_FeeAmountPaid} at least 3 months before the date of the ceremony.
 
 
+## Your ceremony venue
+Legally your ceremony must take place at the venue named on your notice. If after [giving notice](https://www.leeds.gov.uk/births-deaths-and-marriages/ceremonies/giving-your-notice-of-marriage-or-civil-partnership), you want to change the ceremony venue you will need to book and pay for another notice appointment.
+
+
 ## Cancellations and changes
 The booking fee is non-refundable and any changes to the date, time or venue will incur an administration fee. If you are unable to attend this ceremony, please email <a href="mailto:{Booking_District_EmailAddress}">{Booking_District_EmailAddress}</a> to change or cancel it. Leeds Register Office reserves the right to cancel your ceremony if you fail to pay the ceremony fee within 3 months of the {Booking_TypeOfBooking}.
 
