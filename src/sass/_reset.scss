@@ -5,6 +5,8 @@ These are email development reset items needed for the best chance at cross-brow
 
 You'll likely leave these untouched, particularly if using the theme system.
 */
+@use "theme";
+
 
 @media screen and (min-width: 1px) {
   [x-apple-data-detectors],
@@ -52,11 +54,11 @@ td,
 p,
 li {
   line-height: 1.5;
-  font-size: $font-size-text;
-  font-family: $font-family;
-  color: color("text");
+  font-size: theme.$font-size-text;
+  font-family: theme.$font-family;
+  color: theme.color("text");
 }
 
 a:not([class]) {
-  color: $link-color;
+  color: theme.$link-color;
 }
