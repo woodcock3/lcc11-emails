@@ -121,13 +121,13 @@ blockquote {
   padding-top: 20px;
 }
 
-@each $key in $background-colors {
+@each $key in theme.$background-colors {
   .background-#{$key} {
     background-color: theme.color($key);
   }
 }
 
-@each $key in $ink-colors {
+@each $key in theme.$ink-colors {
   .ink-#{$key} {
     color: theme.color($key);
 
