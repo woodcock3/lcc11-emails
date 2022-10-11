@@ -1,3 +1,4 @@
+@use "sass:map";
 @use "theme";
 @use "reset";
 
@@ -9,17 +10,17 @@ h1,
 h2 {
   letter-spacing: 0.03em;
   line-height: 1.2;
-  font-weight: $strong-font-weight;
+  font-weight: thme.$strong-font-weight;
   // prettier-ignore
   Margin: 0;
 }
 
 h1 {
-  font-size: $font-size-h1;
+  font-size: theme.$font-size-h1;
 }
 
 h2 {
-  font-size: $font-size-h2;
+  font-size: theme.$font-size-h2;
 }
 
 /* Layout */
@@ -41,13 +42,13 @@ h2 {
 .wrapper {
   width: 100%;
   height: 100%;
-  background-color: color("background");
+  background-color: theme.color("background");
 }
 
 .body {
   max-width: 600px;
   width: 100%;
-  background: color("light");
+  background: theme.color("light");
   // prettier-ignore
   margin: 0 auto;
 
@@ -68,7 +69,7 @@ h2 {
 .button {
   background-color: $button-color;
   border-radius: 4px;
-  color: color("light");
+  color: theme.color("light");
   display: inline-block;
   font-family: inherit;
   font-size: 18px;
@@ -77,13 +78,13 @@ h2 {
   width: $button-width;
   text-align: center;
   text-decoration: none;
-  box-shadow: 0 3px 0 darken($button-color, 10%);
+  box-shadow: 0 3px 0 darken(theme.$button-color, 10%);
   -webkit-text-size-adjust: none;
 }
 
 // Blockquote to place a solid line on left
 blockquote {
-  border-left: 15px solid color("background");
+  border-left: 15px solid theme.color("background");
   padding: 15px;
   margin: 20px 0;
 }
@@ -122,13 +123,13 @@ blockquote {
 
 @each $key in $background-colors {
   .background-#{$key} {
-    background-color: color($key);
+    background-color: theme.color($key);
   }
 }
 
 @each $key in $ink-colors {
   .ink-#{$key} {
-    color: color($key);
+    color: theme.color($key);
 
     > a {
       color: inherit;
