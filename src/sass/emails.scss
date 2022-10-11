@@ -67,7 +67,7 @@ h2 {
 // Such as - an explicit width, and a pixel line-height
 // Email clients also do not generally support :focus or :hover
 .button {
-  background-color: $button-color;
+  background-color: theme.$button-color;
   border-radius: 4px;
   color: theme.color("light");
   display: inline-block;
