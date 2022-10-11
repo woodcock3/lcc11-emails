@@ -1,3 +1,5 @@
+@use "sass:map";
+
 $color-primary: #003F55 !default;  // lcc dark blue
 $color-secondary: #2E7D32 !default;  // lcc green
 $color-background: mix($color-primary, #fff, 40%);
