@@ -75,7 +75,7 @@ h2 {
   font-size: 18px;
   font-weight: bold;
   line-height: 40px;
-  width: $button-width;
+  width: theme.$button-width;
   text-align: center;
   text-decoration: none;
   box-shadow: 0 3px 0 darken(theme.$button-color, 10%);
