@@ -17,7 +17,7 @@ You'll likely leave these untouched, particularly if using the theme system.
 }
 
 body {
-  background: color("background");
+  background: theme.color("background");
   height: 100%;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
@@ -40,7 +40,7 @@ td {
 }
 
 td {
-  color: color("text");
+  color: theme.color("text");
   border-collapse: collapse !important;
 }
 
