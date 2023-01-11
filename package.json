@@ -9,8 +9,8 @@
     "build:sass": "sass  --no-source-map src/sass:dist/css",
     "build:eleventy": "ELEVENTY_ENV=prod npx @11ty/eleventy --pathprefix=lcc11-emails",
     "prefix": "lightningcss --targets '> 0.25%, not IE 11' dist/css/*.css -o dist/css/*.css",
-    "start": "NODE_ENV=dev npm-run-all build:sass --parallel watch:*",
-    "build": "NODE_ENV=production npm-run-all build:sass prefix build:eleventy"
+    "start": "NODE_ENV=dev npm run build:sass && concurrently 'watch:*'",
+    "build": "NODE_ENV=production npm run build:sass && npm run prefix && npm run build:eleventy"
   },
   "repository": {
     "type": "git",
@@ -22,7 +22,7 @@
     "@11ty/eleventy": "^1.0.2",
     "juice": "^8.1.0",
     "lightningcss-cli": "^1.17.1",
-    "npm-run-all": "^4.1.5",
+    "concurrently": "^7.6.0",
     "sass": "^1.57.1"
   },
   "browserslist": [
