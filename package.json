@@ -4,11 +4,11 @@
   "description": "Use 11ty to generate html emails",
   "main": "index.html",
   "scripts": {
-    "watch:sass": "sass  --no-source-map --watch src/sass:public/css",
+    "watch:sass": "sass  --no-source-map --watch src/sass:dist/css",
     "watch:eleventy": "ELEVENTY_ENV=dev npx @11ty/eleventy --serve",
-    "build:sass": "sass  --no-source-map src/sass:public/css",
+    "build:sass": "sass  --no-source-map src/sass:dist/css",
     "build:eleventy": "ELEVENTY_ENV=prod npx @11ty/eleventy --pathprefix=lcc11-emails",
-    "prefix": "postcss public/css/*.css -u autoprefixer -r",
+    "prefix": "postcss dist/css/*.css -u autoprefixer -r",
     "start": "NODE_ENV=dev npm-run-all build:sass --parallel watch:*",
     "build": "NODE_ENV=production npm-run-all build:sass prefix build:eleventy"
   },
