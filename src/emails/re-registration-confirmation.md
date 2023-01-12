@@ -28,11 +28,11 @@ Please arrive 10 minutes before your scheduled appointment; late arrival will me
 ## Download form
 If you are re-registering following the parents marriage or civil partnership. Please bring a signed & completed LA1 form:
 
-{% include "partials/var-button.html LA1 form https://www.gov.uk/government/publications/application-to-re-register-a-childs-birth-following-marriage-of-natural-parents" %}
+{% var-btn "LA1 form" "https://www.gov.uk/government/publications/application-to-re-register-a-childs-birth-following-marriage-of-natural-parents" %}
 
 If you are re-registering to add the father's name. Please bring a signed & completed GRO185 form:
 
-{% include "partials/var-button.html GRO185 form https://www.gov.uk/government/publications/application-to-re-register-a-childs-birth-and-add-the-natural-fathers-details" %}
+{% var-btn "GRO185 form" "https://www.gov.uk/government/publications/application-to-re-register-a-childs-birth-and-add-the-natural-fathers-details" %}
 
 ## Do not forget
 Please bring the following documents with you:
