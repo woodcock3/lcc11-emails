@@ -16,14 +16,14 @@ module.exports = function (eleventyConfig) {
   // Get current Year for text in footer
   eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
   
-  eleventyConfig.addShortcode("var-btn", function(btn-href, btn-text) {
+  eleventyConfig.addShortcode("var-btn", function(btnHref, btnText) {
     return `<div>
     <!--[if mso]>
-      <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="${btn-href}" style="v-text-anchor:middle; height: {{ meta.ctaButtonHeight }}; width: {{ meta.ctaButtonWidth }}" class="button-mso" arcsize="10%" stroke="f" fillcolor="{{ meta.ctaButtonColor }}">
+      <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="${btnHref}" style="v-text-anchor:middle; height: {{ meta.ctaButtonHeight }}; width: {{ meta.ctaButtonWidth }}" class="button-mso" arcsize="10%" stroke="f" fillcolor="{{ meta.ctaButtonColor }}">
       <w:anchorlock/>
         <center>
           <![endif]-->
-            <a class="button" href="${btn-href}">${btn-text}</a>
+            <a class="button" href="${btnHref}">${btnText}</a>
           <!--[if mso]>
         </center>
       </v:roundrect>
