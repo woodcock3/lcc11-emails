@@ -1,6 +1,7 @@
 const juice = require("juice");
 const meta = require("./src/_data/meta");
 const now = String(Date.now());
+const varButtonShortcode = require('./src/_includes/partials/var-button.js');
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addWatchTarget("./src/sass/");
@@ -15,6 +16,8 @@ module.exports = function (eleventyConfig) {
   
   // Get current Year for text in footer
   eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
+  
+  eleventyConfig.addPairedShortcode("var-btn", varButtonShortcode);
   
   // Insert spacer for emails
   eleventyConfig.addShortcode(
