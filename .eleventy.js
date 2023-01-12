@@ -17,7 +17,7 @@ module.exports = function (eleventyConfig) {
   // Get current Year for text in footer
   eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
   
-  eleventyConfig.addPairedShortcode("var-btn", varButtonShortcode);
+  eleventyConfig.addShortcode("var-btn", varButtonShortcode);
   
   // Insert spacer for emails
   eleventyConfig.addShortcode(
