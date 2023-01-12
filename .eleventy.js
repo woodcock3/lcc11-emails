@@ -30,8 +30,7 @@ module.exports = function (eleventyConfig) {
     <![endif]-->
     </div>
     <br>`;
-    });
-  };
+  });
   
   // Insert spacer for emails
   eleventyConfig.addShortcode(
