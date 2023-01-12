@@ -1,7 +1,6 @@
 const juice = require("juice");
 const meta = require("./src/_data/meta");
 const now = String(Date.now());
-const varButtonShortcode = require('./src/_includes/partials/var-button.js');
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addWatchTarget("./src/sass/");
@@ -17,7 +16,22 @@ module.exports = function (eleventyConfig) {
   // Get current Year for text in footer
   eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
   
-  eleventyConfig.addShortcode("var-btn", varButtonShortcode);
+  eleventyConfig.addShortcode("var-btn", function(btn-href, btn-text) {
+    return `<div>
+    <!--[if mso]>
+      <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="${btn-href}" style="v-text-anchor:middle; height: {{ meta.ctaButtonHeight }}; width: {{ meta.ctaButtonWidth }}" class="button-mso" arcsize="10%" stroke="f" fillcolor="{{ meta.ctaButtonColor }}">
+      <w:anchorlock/>
+        <center>
+          <![endif]-->
+            <a class="button" href="${btn-href}">${btn-text}</a>
+          <!--[if mso]>
+        </center>
+      </v:roundrect>
+    <![endif]-->
+    </div>
+    <br>`;
+    });
+  };
   
   // Insert spacer for emails
   eleventyConfig.addShortcode(
