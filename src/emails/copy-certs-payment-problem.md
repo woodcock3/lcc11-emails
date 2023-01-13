@@ -1,5 +1,5 @@
 ---
-subject: Appointment confirmed to register a birth on {Appointment_AppointmentDate} at {Appointment_StartTime}
+subject: Certificate order payment failure
 preheader: Certificate order payment failure 
 hidePreheader: true
 headline: Certificate Payment Failure
