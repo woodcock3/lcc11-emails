@@ -12,7 +12,7 @@ You attempted to order some {CopyCertificate_CertificateType} certificate(s). Ho
 {CopyCertificate_LetterAdditionalText}
 
 # Contact us
-T: 0113 2224408
+<a aria-label="{{ meta.ariaPhone }}" href="tel:{{ meta.phone }}">{{ meta.phone | replace("+44", "0") | replace("222", " 222") }}</a>
 
 Opening hours for telephone enquiries:
 Mon, Tues, Thu, Fri: 8:30 - 16:30 
