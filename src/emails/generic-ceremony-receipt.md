@@ -6,9 +6,13 @@ headline: Leeds Register Office payment receipt
 ---
 
 Customer names(s): {Booking_Addressee1} {Booking_ContactName1}, {Booking_Addressee2} {Booking_ContactName2}
+
 Venue for {Booking_TypeOfBooking} ceremony: {Booking_Venues_Name}
+
 Date: {Booking_DateOfCeremony}
+
 Time: {Booking_TimeOfCeremony}
+
 Booking Ref: {Booking_pkId}
 {Booking_LetterAdditionalText}
 
