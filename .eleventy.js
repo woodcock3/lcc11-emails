@@ -13,9 +13,10 @@ module.exports = function (eleventyConfig) {
     return now
   });
   
-  // Get current Year for text in footer
+  // Get current Year for text in footer using {% year %}
   eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
   
+  // Create a button that will accept variables for href and the btn-text value using {% var-btn "https://www.google.co.uk/" "Google" %}
   eleventyConfig.addShortcode("var-btn", function(btnHref, btnText) {
     return `<div>
     <!--[if mso]>
