@@ -16,7 +16,7 @@ T: <a aria-label="{{ meta.ariaPhone }}" href="tel:{{ meta.phone }}">{{ meta.phon
 
 E: <a href="mailto:{{ meta.email }}">{{ meta.email }}</a>
 
-### Opening hours for telephone enquiries:
+#### Opening hours for telephone enquiries:
 Mon, Tues, Thu, Fri: 8:30 - 16:30
 
 Wed: 9:30 - 16:30
