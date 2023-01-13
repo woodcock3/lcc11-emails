@@ -13,6 +13,7 @@ You attempted to order some {CopyCertificate_CertificateType} certificate(s). Ho
 
 # Contact us
 T: <a aria-label="{{ meta.ariaPhone }}" href="tel:{{ meta.phone }}">{{ meta.phone | replace: "+44", "0" | replace: "222", " 222" }}</a>
+
 E: <a href="mailto:{{ meta.email }}">{{ meta.email }}</a>
 
 Opening hours for telephone enquiries:
