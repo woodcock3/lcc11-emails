@@ -17,6 +17,7 @@ Booking Ref: {Booking_pkId}
 {Payment_Summary_Email}
 
 VAT No: 171 4591 62
+
 You may wish to save or print this email receipt for your records.
 
 
