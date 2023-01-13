@@ -2,7 +2,7 @@
 subject: Registrars payment receipt
 preheader: Ceremony payment receipt 
 hidePreheader: true
-headline: Leeds Register Office payment receipt
+headline: Ceremony payment receipt
 ---
 
 Dear {Booking_Addressee1} {Booking_ContactName1} and {Booking_Addressee2} {Booking_ContactName2}
