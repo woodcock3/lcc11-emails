@@ -12,7 +12,8 @@ You attempted to order some {CopyCertificate_CertificateType} certificate(s). Ho
 {CopyCertificate_LetterAdditionalText}
 
 # Contact us
-<a aria-label="{{ meta.ariaPhone }}" href="tel:{{ meta.phone }}">{{ meta.phone | replace("+44", "0") | replace("222", " 222") }}</a>
+T: <a aria-label="{{ meta.ariaPhone }}" href="tel:{{ meta.phone }}">{{ meta.phone | replace("+44", "0") | replace("222", " 222") }}</a>
+E: <a href="mailto:{{ meta.email }}">{{ meta.email }}</a>
 
 Opening hours for telephone enquiries:
 Mon, Tues, Thu, Fri: 8:30 - 16:30 
