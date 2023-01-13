@@ -12,11 +12,7 @@ Order number: {CopyCertificate_DuplicateCertificateId}
 
 If there are any issues with the order please email us at <a href="mailto:{{ meta.email }}">{{ meta.email }}</a>. {CopyCertificate_LetterAdditionalText}
 
-
-## Track your order
 Delivery type: {CopyCertificate_PostageType}
-
-Tracking Number: {CopyCertificate_TrackingNumber}
 
 
 ## Your details:
