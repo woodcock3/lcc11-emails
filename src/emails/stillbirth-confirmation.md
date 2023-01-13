@@ -23,10 +23,10 @@ Please arrive 10 minutes before your scheduled appointment; late arrival will me
 
 ## Attendance
   - If you are married (or in a civil partnership) only one parent needs to attend
-  - If you are NOT married (or in a civil partnership) both parents need to attend if you wish for both parents names to be included on the birth certificate
+  - If you are NOT married (or in a civil partnership) both parents need to attend if you wish for both parents names to be included on the certificate
 
 ## Do not forget
-Please bring your bank card or cash if you wish to purchase birth certificates, they cost £11 each.
+Please bring your bank card or cash if you wish to purchase certificates, they cost £11 each.
 Usually the doctors or coroners will send the medical information about your baby directly to us. However, if you have the medical certificate of cause of death, please bring it to the appointment.
 
 It is helpful to bring the following documents with you: 
