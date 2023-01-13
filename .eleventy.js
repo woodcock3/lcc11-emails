@@ -3,8 +3,8 @@ const meta = require("./src/_data/meta");
 const now = String(Date.now());
 
 module.exports = function (eleventyConfig) {
+  /* WATCH */
   eleventyConfig.addWatchTarget("./src/sass/");
-
   eleventyConfig.setWatchThrottleWaitTime(100);
 
   /* SHORTCODES */
@@ -33,7 +33,7 @@ module.exports = function (eleventyConfig) {
     <br>`;
   });
   
-  // Insert spacer for emails
+  // Insert spacer for emails using {% emailSpacer %} or {% emailSpacer 'small' %}
   eleventyConfig.addShortcode(
     "emailSpacer",
     (size = "") =>
