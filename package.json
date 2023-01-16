@@ -8,8 +8,8 @@
     "watch:eleventy": "ELEVENTY_ENV=dev @11ty/eleventy-dev-server --input=dist",
     "build:sass": "sass  --no-source-map src/sass:dist/css",
     "build:eleventy": "ELEVENTY_ENV=prod npx @11ty/eleventy --pathprefix=emails11",
-    "prefix": "lightningcss --targets '> 0.25%, not IE 11' dist/css/*.css -o dist/css/*.css",
-    "start": "NODE_ENV=dev npm run build:sass && concurrently 'watch:*'",
+    "prefix": "BROWSERSLIST_CONFIG='./package.json' lightningcss --browserslist dist/css/*.css -o dist/css/*.css",
+    "start": "NODE_ENV=dev npm run build:sass && concurrently --kill-others 'npm:watch:*'",
     "build": "NODE_ENV=production npm run build:sass && npm run prefix && npm run build:eleventy"
   },
   "repository": {
@@ -19,9 +19,9 @@
   "author": "5t3ph",
   "license": "ISC",
   "devDependencies": {
-    "@11ty/eleventy": "^2.0.0-canary.25",
+    "@11ty/eleventy": "^2.0.0-canary.30",
     "juice": "^8.1.0",
-    "lightningcss-cli": "^1.17.1",
+    "lightningcss-cli": "^1.18.0",
     "concurrently": "^7.6.0",
     "sass": "^1.57.1"
   },
