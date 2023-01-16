@@ -2,7 +2,7 @@
   "name": "11ty-email-generator",
   "version": "1.0.0",
   "description": "Use 11ty to generate html emails",
-  "main": "index.html",
+  "main": "eleventy.js",
   "scripts": {
     "watch:sass": "sass  --no-source-map --watch src/sass:dist/css",
     "watch:eleventy": "ELEVENTY_ENV=dev @11ty/eleventy-dev-server --input=dist",
