@@ -3,6 +3,12 @@ const meta = require("./src/_data/meta");
 const now = String(Date.now());
 
 module.exports = function (eleventyConfig) {
+  // DEV SERVER
+  eleventyConfig.setServerOptions({
+    port: 8080,
+    watch: ["src/sass", "dist/assets/css/*.css"]
+  });
+  
   /* WATCH */
   eleventyConfig.addWatchTarget("./src/sass/");
   eleventyConfig.setWatchThrottleWaitTime(100);
