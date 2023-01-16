@@ -11,7 +11,7 @@ Thank you for your recent application for a marriage certificate on {CopyCertifi
 
 Order reference: {CopyCertificate_DuplicateCertificateId}
 
-I regret that I am unable to assist you since the register containing the record of the marriage is still held by the church/religious organisation where the ceremony took place. On the 4th May 2021 the marriage law changed, which meant all churches and religious organisations had to give us their marriage registers.
+{CopyCertificate_LetterAdditionalText} I regret that I am unable to assist you since the register containing the record of the marriage is still held by the church/religious organisation where the ceremony took place. On the 4th May 2021 the marriage law changed, which meant all churches and religious organisations had to give us their marriage registers.
 
 However, as yet this religious organisation where your marriage happened has yet to return the marriage register to us. To obtain a certificate you should contact the church/religious organisation where the ceremony took place and request that they give us their marriage register(s).
 
