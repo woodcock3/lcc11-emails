@@ -6,7 +6,7 @@ Create branded emails with ease by writing the content in Markdown.
 
 This generator is setup to use Sass by default, but you may use vanilla CSS. The benefit of Sass is ease of re-theming of the default template by changing a handful of variables, detailed below.
 
-Includes autoprefixing of styles `postbuild` using [Lightning CSS](https://lightningcss.dev/). If you have different preferred browser targets, be sure to modify both the package browserslist and the value of --target within the postbuild script.
+Includes autoprefixing of styles using [Lightning CSS](https://lightningcss.dev/). If you have different preferred browser targets, be sure to modify the package browserslist.
 
 Skip to the **[Email Terminology and Tips](#email-terminology-and-tips)**
 
