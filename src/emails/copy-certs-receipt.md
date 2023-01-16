@@ -1,11 +1,14 @@
 ---
+subject: Certificate order receipt
+preheader: Certificate order receipt
+hidePreheader: true
+headline: Sales Transaction
 ---
 
 Dear {CopyCertificate_GivenName} {CopyCertificate_Surname}
 
 Thank you for your recent payment to Leeds Register Office.
 
-## Sales Transaction
 Payment Date: {CopyCertificate_PaidDate}
 
 Payment Amount: £{CopyCertificate_TotalCost}
@@ -32,4 +35,4 @@ E: {CopyCertificate_Email}
 
 
 ## Your privacy
-Please see www.leeds.gov.uk/registrarsprivacy for information on how we process your personal data.
+Please see our [privacy policy](https://www.leeds.gov.uk/registrarsprivacy) for information on how we process your personal data.
