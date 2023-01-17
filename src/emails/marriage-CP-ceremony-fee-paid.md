@@ -26,8 +26,7 @@ Time: {Booking_TimeOfCeremony}
 Booking Ref: {Booking_pkId}
 
 
-Cancellations
-==========
+## Cancellations
 If your ceremony is not taking place, please email {Booking_District_EmailAddress} to change or cancel it. Please see our cancellation policy in our ceremony pack  or in our [terms and conditions](https://www.leeds.gov.uk/CeremoniesTerms) for further details.
 
 
