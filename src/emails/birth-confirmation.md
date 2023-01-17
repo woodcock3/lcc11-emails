@@ -35,11 +35,4 @@ Please bring the following documents with you:
 ## Interpreters
 If you have requested an interpreter we will arrange one for you. If we are unable to arrange an interpreter for the appointment you have selected, we will contact you to offer a different date and time that the interpreter can attend. 
 
-## Change or cancel
-If you cannot attend your appointment, you can change or cancel it. This needs to be done at least two working days before your appointment. Your change or cancel code is: {Appointment_RescheduleCancelCode}
-
-{% include "partials/cancel-button.html" %}
-
-
-## Your privacy
-Please see our [privacy policy](https://www.leeds.gov.uk/registrarsprivacy) for information on how we process your personal data.
+{% include "partials/appt-change-privacy.md" %}
