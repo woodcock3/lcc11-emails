@@ -24,4 +24,8 @@ Booking reference: {Booking_pkId} (You will need this reference number when payi
   - Complete the ceremony options form (you will receive this at your appointment)
   - Pay the remaining ceremony fee of {Booking_FeeAmountPaid} at least 3 months before the date of the ceremony
 
-{% render "partials/ceremony-cancel-terms.md" %}
+
+## Cancellations and changes
+The booking fee is non-refundable and any changes to the date, time or venue will incur an administration fee. If you are unable to attend this ceremony, please email <a href="mailto:{Booking_District_EmailAddress}">{Booking_District_EmailAddress}</a> to change or cancel it. Leeds Register Office reserves the right to cancel your ceremony if you fail to pay the ceremony fee within 3 months of the {Booking_TypeOfBooking}.
+
+{% render "partials/ceremony-privacy-t&c.md" %}
