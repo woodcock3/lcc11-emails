@@ -1,6 +1,6 @@
 ---
 subject: Cancelled registrars appointment
-preheader: Registrars Birth Appointment 
+preheader: Cancelled Registrars Appointment 
 hidePreheader: true
 headline: Appointment cancelled
 ---
