@@ -30,3 +30,5 @@ The booking fee is non-refundable and any changes to the date, time or venue wil
 
 ## Your privacy and terms and conditions
 Please see our [privacy policy](https://www.leeds.gov.uk/registrarsprivacy) for information on how we process your personal data. All bookings are subject to our [terms and conditions](https://www.leeds.gov.uk/CeremoniesTerms).
+
+{% render "partials/ceremony-cancel-terms.md" %}
