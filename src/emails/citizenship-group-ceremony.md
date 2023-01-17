@@ -43,7 +43,7 @@ Please note:
 
 
 ## Change or cancel
-If you need to change or cancel your citizenship ceremony please email: <a href="mailto:citizenship.reg.office@leeds.gov.uk">citizenship.reg.office@leeds.gov.uk</a> or call <a aria-label="{{ meta.ariaPhone }}" href="tel:{{ meta.phone }}">{{ meta.phone | replace("+44", "0") | replace("222", " 222") }}</a> (Monday to Friday, 9am to 4:30pm). Changes to your booking must be made at least 2 weeks before your ceremony.
+If you need to change or cancel your citizenship ceremony please email: <a href="mailto:citizenship.reg.office@leeds.gov.uk">citizenship.reg.office@leeds.gov.uk</a> or call <a aria-label="{{ meta.ariaPhone }}" href="tel:{{ meta.phone }}">{{ meta.phone | replace:"+44", "0" | replace:"222", " 222" }}</a> (Monday to Friday, 9am to 4:30pm). Changes to your booking must be made at least 2 weeks before your ceremony.
  
 
 ## Your privacy
