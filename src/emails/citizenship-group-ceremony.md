@@ -9,6 +9,8 @@ Dear {CitizenshipAttendees_Forename}
 
 Thank you for booking your citizenship ceremony with Leeds Register Office.
 
+## Your Ceremony details
+
 Your ceremony will take place on:
 
 Date: {Appointment_AppointmentDate} 
