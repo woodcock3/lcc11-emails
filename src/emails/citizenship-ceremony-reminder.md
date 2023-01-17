@@ -7,6 +7,8 @@ headline: Reminder - Your Citizenship ceremony
 
 Dear {CitizenshipAttendees_Forename}
 
+Your ceremony will take place on:
+
 Date: {Appointment_AppointmentDate} 
 
 Time: {Appointment_StartTime} 
@@ -22,7 +24,6 @@ Please arrive 15 minutes before your ceremony starts. If you are late you will n
 
 
 ## Preparing for your ceremony
-Please read the attached ceremony guidance leaflet.
 You will need to bring:
 
 - this confirmation email
