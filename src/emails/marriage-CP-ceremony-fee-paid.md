@@ -31,5 +31,4 @@ Cancellations
 If your ceremony is not taking place, please email {Booking_District_EmailAddress} to change or cancel it. Please see our cancellation policy in our ceremony pack  or in our [terms and conditions](https://www.leeds.gov.uk/CeremoniesTerms) for further details.
 
 
-## Your privacy and terms and conditions
-Please see our [privacy policy](https://www.leeds.gov.uk/registrarsprivacy) for information on how we process your personal data. All bookings are subject to our [terms and conditions](https://www.leeds.gov.uk/CeremoniesTerms).
+{% render "partials/ceremony-privacy-t&c.md" %}
