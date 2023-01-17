@@ -42,3 +42,5 @@ If you cannot attend your appointment, you can change or cancel it. This needs t
 
 ## Your privacy
 Please see our [privacy policy](https://www.leeds.gov.uk/registrarsprivacy) for information on how we process your personal data.
+
+{% include "partials/appt-change-privacy.md" %}
