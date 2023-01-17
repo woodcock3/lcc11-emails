@@ -1,15 +1,14 @@
 ---
-subject: Registrars appointment confirmed on {Appointment_AppointmentDate} at {Appointment_StartTime}
-preheader: Registrars Appointment 
+subject: Citizenship ceremony confirmation on {Appointment_AppointmentDate} at {Appointment_StartTime}
+preheader: Citizenship ceremony 
 hidePreheader: true
-headline: Appointment confirmed
+headline: Your citizenship ceremony
 ---
 
 Dear {CitizenshipAttendees_Forename}
 
 Thank you for booking your citizenship ceremony with Leeds Register Office.
 
-## Your Ceremony details
 Your ceremony will take place on:
 
 Date: {Appointment_AppointmentDate} 
