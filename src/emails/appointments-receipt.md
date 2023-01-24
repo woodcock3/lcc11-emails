@@ -5,35 +5,30 @@ hidePreheader: true
 headline: Sales Transaction
 ---
 
-Dear {AppointmentAttendee_LetterRecipient}
+Customer name: {AppointmentAttendee_LetterRecipient}
+
+Receipt number: SFD-{Payment_pkId}
 
 Thank you for your recent payment to Leeds Register Office.
 
 
-## Payment confirmation - {Payment_pkId}
-Payment Date: {Payment_DateOfGeneration}
+## Payment details
 
-Payment Amount: £{Payment_Amount}
+Payment date: {Payment_DateOfGeneration}
 
-Payment Method: {PaymentMethodName}
+Payment amount: £{Payment_Amount}
 
-Payment receipt number (if applicable): {Payment_ExternalProviderReceipt}
+Payment method: {PaymentMethodName}
+
+Transaction number (if applicable): {Payment_ExternalProviderReceipt}
+
+Payment for: {Appointment_AppointmentType}
+
+Booking ref: {Appointment_Id}
+
+
 
 You may wish to save or print this email receipt for your records.
-
-
-## Appointment details
-Appointment type: {Appointment_AppointmentType}
-
-Booking Ref: {Appointment_Id}
-
-
-## Your details
-Address: {Appointment_Letter_FullAddress}
-
-Telephone: {AppointmentAttendee_LetterMobileTelephone}
-
-Email: {AppointmentAttendee_LetterEmailAddress}
 
 
 ## Your privacy
