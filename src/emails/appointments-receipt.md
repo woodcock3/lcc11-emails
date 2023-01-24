@@ -1,5 +1,5 @@
 ---
-subject: Registrars payment receipt
+subject: Registrars payment receipt - SFD-{Payment_pkId}
 preheader: Registrars payment receipt
 hidePreheader: true
 headline: Sales Transaction
