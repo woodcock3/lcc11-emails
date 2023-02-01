@@ -19,7 +19,7 @@
   "author": "5t3ph",
   "license": "ISC",
   "devDependencies": {
-    "@11ty/eleventy": "^2.0.0-canary.30",
+    "@11ty/eleventy": "^2.0.0-canary.35",
     "juice": "^8.1.0",
     "lightningcss-cli": "^1.18.0",
     "concurrently": "^7.6.0",
