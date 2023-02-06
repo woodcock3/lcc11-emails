@@ -36,6 +36,7 @@ You will need to bring:
 - photographic ID (for example a passport, driving licence or biometric residence permit)
 - this confirmation email
 
+This ceremony is a group ceremony. Each new citizens can bring 1 guest with them.
 
 ## The Ceremony
 You will be welcomed into British Citizenship by the West Yorkshire Lieutenancy or the Lord Mayor. During the ceremony you will repeat the oath and pledge after a registrar. A copy of the oath and pledge is below. Upon completion of your pledge of commitment, you will become a British citizen. 
@@ -58,11 +59,15 @@ I will give my loyalty to the United Kingdom and respect its rights and freedoms
 
 
 > ## Ceremony safety rules
-> Do not attend if you have Covid-19 symptoms. This ceremony is a group ceremony. Each new citizens can bring 1 guest with them. Please be aware, there may be up to 40 people in the room.
+> Do not attend if you have Covid-19 symptoms. Please be aware, there may be up to 40 people in the room.
 >
 > Please note:
 >
 >  - face masks are optional
+
+
+## After the ceremony
+If you have a biometric residence permit (BRP) you must send it back to the Home Office within 5 working days of getting your certificate of British citizenship. If you do not return your permit within 5 working days you’ll be fined up to £1,000. Please see your home office invitation letter for information on how and where to post the permit to or check [gov.uk](https://www.gov.uk/apply-citizenship-indefinite-leave-to-remain/after-you-get-your-certificate).
 
 
 ## Applying for a passport
