@@ -7,7 +7,8 @@
 // The web font is added into the head of email.njk
 
 h1,
-h2 {
+h2,
+h3 {
   letter-spacing: 0.03em;
   line-height: 1.2;
   font-weight: theme.$strong-font-weight;
@@ -21,6 +22,10 @@ h1 {
 
 h2 {
   font-size: theme.$font-size-h2;
+}
+
+h3 {
+  font-size: theme.$font-size-h3;
 }
 
 /* Layout */
@@ -135,8 +140,4 @@ blockquote {
       color: inherit;
     }
   }
-}
-
-.foo {
-  color: oklab(59.686% 0.1009 0.1192);
 }
