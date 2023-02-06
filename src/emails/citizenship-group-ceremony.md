@@ -24,24 +24,49 @@ Your Home Office ref: {CitizenshipAttendee_HORef}
 {% include "partials/map-button.html" %}
 
 
+## Arrival
 Please arrive 15 minutes before your ceremony starts. If you are late you will not be allowed to go ahead with the ceremony and will need to rebook.
+Please use the main entrance to the Civic Hall on Millennium Square. If you require level access, please use the entrance on Portland Crescent. 
 
 
 ## Preparing for your ceremony
-Please read the attached ceremony guidance leaflet.
 You will need to bring:
 
-- this confirmation email
 - your Home Office invitation letter
 - photographic ID (for example a passport, driving licence or biometric residence permit)
+- this confirmation email
 
 
-## Ceremony safety rules
-Do not attend if you have Covid-19 symptoms. This ceremony is a group ceremony. Each new citizens can bring 1 guest with them. Please be aware, there may be up to 40 people in the room.
+## The Ceremony
+You will be welcomed into British Citizenship by the West Yorkshire Lieutenancy or the Lord Mayor. During the ceremony you will repeat the oath and pledge after a registrar. A copy of the oath and pledge is below. Upon completion of your pledge of commitment, you will become a British citizen. 
 
-Please note:
 
-  - face masks are optional
+### Oath and pledge
+During the ceremony you will say the oath and pledge. Please choose from one of following the oaths:
+
+**Swear by Oath:**
+
+1.	I (your name) swear by Almighty God that on becoming a British citizen I will be faithful and bear true allegiance to His Majesty King Charles the Third, his > Heirs and Successors according to law.
+
+**Affirmation Oath:**
+
+2.	I (your name) do solemnly and sincerely and truly declare and affirm that on becoming a British citizen I will be faithful and bear true allegiance to His Majesty King Charles the Third, his Heirs and Successors according to law.
+
+**The pledge of commitment:**
+
+I will give my loyalty to the United Kingdom and respect its rights and freedoms I will uphold its democratic values. I will observe its laws faithfully and fulfil my duties and obligations as a British citizen.
+
+
+> ## Ceremony safety rules
+> Do not attend if you have Covid-19 symptoms. This ceremony is a group ceremony. Each new citizens can bring 1 guest with them. Please be aware, there may be up to 40 people in the room.
+>
+> Please note:
+>
+>  - face masks are optional
+
+
+## Applying for a passport
+Following your ceremony you can apply for a British passport. Please visit www.gov.uk/apply-first-adult-passport. Please note, when applying for your British passport, the Passport Office do not accept laminated certificates.
 
 
 ## Change or cancel
