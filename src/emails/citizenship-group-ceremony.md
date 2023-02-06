@@ -36,14 +36,14 @@ You will need to bring:
 - photographic ID (for example a passport, driving licence or biometric residence permit)
 - this confirmation email
 
-This ceremony is a group ceremony. Each new citizens can bring 1 guest with them.
+This ceremony is a group ceremony. Each new citizen can bring 1 guest with them.
 
 ## The Ceremony
-You will be welcomed into British Citizenship by the West Yorkshire Lieutenancy or the Lord Mayor. During the ceremony you will repeat the oath and pledge after a registrar. A copy of the oath and pledge is below. Upon completion of your pledge of commitment, you will become a British citizen. 
+You will be welcomed into British Citizenship by the West Yorkshire Lieutenancy or the Lord Mayor. During the ceremony you will repeat the oath and pledge after a registrar. A copy of the oath and pledge is below. Upon completion of your pledge of commitment, you will become a British citizen and receive your certificate. 
 
 
 ### Oath and pledge
-Please choose from one of following the oaths:
+Please choose from one of the following oaths:
 
 **Swear by Oath:**
 
@@ -55,7 +55,7 @@ Please choose from one of following the oaths:
 
 **The pledge of commitment:**
 
-I will give my loyalty to the United Kingdom and respect its rights and freedoms I will uphold its democratic values. I will observe its laws faithfully and fulfil my duties and obligations as a British citizen.
+I will give my loyalty to the United Kingdom and respect its rights and freedoms. I will uphold its democratic values. I will observe its laws faithfully and fulfil my duties and obligations as a British citizen.
 
 
 > ## Ceremony safety rules
