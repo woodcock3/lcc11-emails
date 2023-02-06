@@ -66,7 +66,7 @@ I will give my loyalty to the United Kingdom and respect its rights and freedoms
 
 
 ## Applying for a passport
-Following your ceremony you can apply for a British passport. Please visit www.gov.uk/apply-first-adult-passport. Please note, when applying for your British passport, the Passport Office do not accept laminated certificates.
+Following your ceremony you can apply for a [British passport on gov.uk](https://www.gov.uk/apply-renew-passport). Please note, when applying for your British passport, the Passport Office do not accept laminated certificates.
 
 
 ## Change or cancel
