@@ -47,7 +47,7 @@ Please choose from one of following the oaths:
 
 **Swear by Oath:**
 
-1.	I (your name) swear by Almighty God that on becoming a British citizen I will be faithful and bear true allegiance to His Majesty King Charles the Third, his > Heirs and Successors according to law.
+1.	I (your name) swear by Almighty God that on becoming a British citizen I will be faithful and bear true allegiance to His Majesty King Charles the Third, his Heirs and Successors according to law.
 
 **Affirmation Oath:**
 
