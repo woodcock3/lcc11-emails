@@ -43,7 +43,7 @@ You will be welcomed into British Citizenship by the West Yorkshire Lieutenancy 
 
 
 ### Oath and pledge
-During the ceremony you will say the oath and pledge. Please choose from one of following the oaths:
+Please choose from one of following the oaths:
 
 **Swear by Oath:**
 
