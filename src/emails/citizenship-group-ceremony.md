@@ -26,7 +26,7 @@ Your Home Office ref: {CitizenshipAttendee_HORef}
 
 ## Arrival
 Please arrive 15 minutes before your ceremony starts. If you are late you will not be allowed to go ahead with the ceremony and will need to rebook.
-Please use the main entrance to the Civic Hall on Millennium Square. If you require level access, please use the entrance on Portland Crescent. 
+Please use the main entrance to the Civic Hall on Millennium Square. If you require level access, use the entrance on Portland Crescent. 
 
 
 ## Preparing for your ceremony
