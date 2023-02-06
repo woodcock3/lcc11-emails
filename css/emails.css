@@ -178,3 +178,9 @@ blockquote {
 .ink-dark > a {
   color: inherit;
 }
+
+.foo {
+  color: #c65d07;
+  color: color(display-p3 .724144 .386777 .148795);
+  color: lab(52.2319% 40.1449 59.9171);
+}
