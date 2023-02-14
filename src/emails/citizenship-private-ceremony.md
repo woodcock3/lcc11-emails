@@ -24,7 +24,9 @@ Your Home Office ref: {CitizenshipAttendee_HORef}
 {% include "partials/map-button.html" %}
 
 
-This ceremony is a private ceremony. You can bring guests with you. Please arrive 15 minutes before your ceremony starts. If you are late you will not be allowed to go ahead with the ceremony.
+## Arrival
+Please arrive 15 minutes before your ceremony starts. If you are late you will not be allowed to go ahead with the ceremony and will need to rebook.
+Please use the main entrance to the Civic Hall on Millennium Square. If you require level access, use the entrance on Portland Crescent.
 
 
 ## Preparing for your ceremony
@@ -35,6 +37,28 @@ You will need to bring:
 - your Home Office invitation letter
 - photographic ID (for example a passport, driving licence or biometric residence permit)
 
+This ceremony is a private ceremony. You can bring guests with you.
+
+
+## The Ceremony
+During the ceremony you will repeat the oath and pledge after a registrar. A copy of the oath and pledge is below. Upon completion of your pledge of commitment, you will become a British citizen and receive your certificate. 
+
+
+### Oath and pledge
+Please choose from one of the following oaths:
+
+**Swear by Oath:**
+
+1.	I (your name) swear by Almighty God that on becoming a British citizen I will be faithful and bear true allegiance to His Majesty King Charles the Third, his Heirs and Successors according to law.
+
+**Affirmation Oath:**
+
+2.	I (your name) do solemnly and sincerely and truly declare and affirm that on becoming a British citizen I will be faithful and bear true allegiance to His Majesty King Charles the Third, his Heirs and Successors according to law.
+
+**The pledge of commitment:**
+
+I will give my loyalty to the United Kingdom and respect its rights and freedoms. I will uphold its democratic values. I will observe its laws faithfully and fulfil my duties and obligations as a British citizen.
+
 
 ## Ceremony safety rules
 Do not attend if you have Covid-19 symptoms.
@@ -42,6 +66,13 @@ Do not attend if you have Covid-19 symptoms.
 Please note:
 
   - face masks are optional
+
+## After the ceremony
+If you have a biometric residence permit (BRP) you must send it back to the Home Office within 5 working days of getting your certificate of British citizenship. If you do not return your permit within 5 working days you’ll be fined up to £1,000. Please see your home office invitation letter for information on how and where to post the permit to or check [gov.uk](https://www.gov.uk/apply-citizenship-indefinite-leave-to-remain/after-you-get-your-certificate).
+
+
+## Applying for a passport
+Following your ceremony you can apply for a [British passport on gov.uk](https://www.gov.uk/apply-renew-passport). Please note, when applying for your British passport, the Passport Office do not accept laminated certificates.
 
 
 ## Change or cancel
