@@ -5,7 +5,7 @@ hidePreheader: true
 headline: Reminder - Your Citizenship ceremony
 ---
 
-Dear {CitizenshipAttendees_Forename}
+Dear {CitizenshipAttendee_FullName}
 
 Your ceremony will take place on:
 
