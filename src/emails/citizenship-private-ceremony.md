@@ -5,7 +5,7 @@ hidePreheader: true
 headline: Your citizenship ceremony
 ---
 
-Dear {CitizenshipAttendees_Forename}
+Dear {CitizenshipAttendee_FullName}
 
 Thank you for booking your citizenship ceremony with Leeds Register Office.
 
