@@ -21,7 +21,7 @@
   "devDependencies": {
     "@11ty/eleventy": "^2.0.0",
     "concurrently": "^7.6.0",
-    "juice": "^8.1.0",
+    "juice": "^9.0.0",
     "lightningcss-cli": "^1.19.0",
     "sass": "^1.58.1"
   },
