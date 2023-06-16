@@ -33,7 +33,7 @@ Please bring the following documents with you:
 
 - Photographic ID for both parents (e.g. passport, driving licence, biometric residence permit, permanent residence card)
 - If you do not have photographic ID please bring birth certificates and proof of address for each parent 
-- Your bank card or cash if you wish to purchase birth certificates (£11 each)
+- Your bank card or cash if you wish to purchase birth certificates (£11 each). If your bringing cash please have the exact amount.
 
 ## Interpreters
 If you have requested an interpreter we will arrange one for you. If we are unable to arrange an interpreter for the appointment you have selected, we will contact you to offer a different date and time that the interpreter can attend. 
