@@ -23,7 +23,7 @@ Please arrive 10 minutes before your scheduled appointment; late arrival will me
 Please note, there are bus strikes from 18th June onwards. This may affect travel times getting to your registars appointment. For more info see [West Yorkshire Metro]( https://wymetro.com/).
 
 ## Do not forget
-Please bring cash if you wish to buy some death certificates, they cost £11 each.
+Please bring your bank card or cash if you wish to buy some death certificates, they cost £11 each. If your bringing cash please have the exact amount.
 Usually the doctors or coroners send the medical information about the deceased directly to us. However, if you have the medical certificate of cause of death, please bring it to the appointment.
 
 It is helpful to bring the following documents for the deceased: 
