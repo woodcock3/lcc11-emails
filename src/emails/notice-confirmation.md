@@ -21,6 +21,9 @@ Customer reference: {Appointment_Id}
 
 Please arrive 10 minutes before your appointment; late arrival will mean that you will not be seen and your appointment will be rebooked.
 
+## Bus Strikes
+Please note, there are bus strikes from 18th June onwards. This may affect travel times getting to your registars appointment. For more info see [West Yorkshire Metro]( https://wymetro.com/).
+
 
 ## Documents
 You both must bring a recent passport photo (if one of you is not British, Irish or have EU settled status).
