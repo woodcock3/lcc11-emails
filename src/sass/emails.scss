@@ -92,6 +92,65 @@ blockquote {
   margin: 20px 0;
 }
 
+// Warning message
+
+.warning-message {
+  position: relative;
+  margin-bottom: 20px;
+  padding: 10px 0;
+
+  &-icon {
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+      font-weight: 700;
+      box-sizing: border-box;
+      display: inline-block;
+      position: absolute;
+      left: 0;
+      min-width: 35px;
+      min-height: 35px;
+      margin-top: -7px;
+      border: 3px solid #0b0c0c;
+      border-radius: 50%;
+      color: #fff;
+      background: #0b0c0c;
+      font-size: 30px;
+      line-height: 29px;
+      text-align: center;
+      -webkit-user-select: none;
+      -ms-user-select: none;
+      user-select: none;
+      forced-color-adjust: none;
+  }
+
+  &-text {
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+      font-weight: 700;
+      font-size: 16px;
+      font-size: 1rem;
+      line-height: 19px;
+      line-height: 1.25;
+      color: #0b0c0c;
+      display: block;
+      padding-left: 45px;
+  }
+
+  &-assistive {
+      position: absolute !important;
+      width: 1px !important;
+      height: 1px !important;
+      margin: 0 !important;
+      padding: 0 !important;
+      overflow: hidden !important;
+      clip: rect(0 0 0 0) !important;
+      -webkit-clip-path: inset(50%) !important;
+      clip-path: inset(50%) !important;
+      border: 0 !important;
+      white-space: nowrap !important;
+  }
+}
+
 /* Utilities */
 
 .col-pad-left,
