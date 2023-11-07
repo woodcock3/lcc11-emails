@@ -126,8 +126,8 @@ blockquote {
 }
 
 .warning-message {
+  width: 100%;
   margin-bottom: 20px;
-  padding: 10px 0;
 }
 
 .warning-message-icon {
@@ -136,8 +136,6 @@ blockquote {
   box-sizing: border-box;
   text-align: center;
   color: #fff;
-  text-align: center;
-  float: left;
   background: #0b0c0c;
   border: 3px solid #0b0c0c;
   border-radius: 50%;
@@ -146,19 +144,16 @@ blockquote {
   font-size: 30px;
   font-weight: 700;
   line-height: 29px;
-  display: block;
 }
 
 .warning-message-text {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color: #0b0c0c;
-  margin-top: 8px;
-  padding-left: 45px;
-  font-size: 1rem;
+  padding-left: 10px;
+  font-size: 16px;
   font-weight: 700;
   line-height: 1.25;
-  display: block;
 }
 
 .col-pad-left, .col-pad {
