@@ -128,55 +128,37 @@ blockquote {
 .warning-message {
   margin-bottom: 20px;
   padding: 10px 0;
-  position: relative;
 }
 
 .warning-message-icon {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   box-sizing: border-box;
+  text-align: center;
   color: #fff;
   text-align: center;
-  -webkit-user-select: none;
-  user-select: none;
-  forced-color-adjust: none;
+  float: left;
   background: #0b0c0c;
   border: 3px solid #0b0c0c;
   border-radius: 50%;
-  min-width: 35px;
-  min-height: 35px;
-  margin-top: -7px;
+  width: 35px;
+  height: 35px;
   font-size: 30px;
   font-weight: 700;
   line-height: 29px;
-  display: inline-block;
-  position: absolute;
-  left: 0;
+  display: block;
 }
 
 .warning-message-text {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color: #0b0c0c;
+  margin-top: 8px;
   padding-left: 45px;
   font-size: 1rem;
   font-weight: 700;
   line-height: 1.25;
   display: block;
-}
-
-.warning-message-assistive {
-  clip: rect(0 0 0 0) !important;
-  -webkit-clip-path: inset(50%) !important;
-  clip-path: inset(50%) !important;
-  white-space: nowrap !important;
-  border: 0 !important;
-  width: 1px !important;
-  height: 1px !important;
-  margin: 0 !important;
-  padding: 0 !important;
-  position: absolute !important;
-  overflow: hidden !important;
 }
 
 .col-pad-left, .col-pad {
