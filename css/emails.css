@@ -125,37 +125,6 @@ blockquote {
   padding: 15px;
 }
 
-.warning-message {
-  width: 100%;
-  margin-bottom: 20px;
-}
-
-.warning-message-icon {
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  box-sizing: border-box;
-  text-align: center;
-  color: #fff;
-  background: #0b0c0c;
-  border: 3px solid #0b0c0c;
-  border-radius: 50%;
-  width: 35px;
-  height: 35px;
-  font-size: 30px;
-  font-weight: 700;
-  line-height: 29px;
-}
-
-.warning-message-text {
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  color: #0b0c0c;
-  padding-left: 10px;
-  font-size: 16px;
-  font-weight: 700;
-  line-height: 1.25;
-}
-
 .col-pad-left, .col-pad {
   padding-left: 40px;
 }
