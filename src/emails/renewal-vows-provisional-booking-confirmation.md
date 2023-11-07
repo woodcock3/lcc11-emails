@@ -26,7 +26,7 @@ Booking reference: {Booking_pkId} (You will need this reference number when payi
 
 
 ## Your ceremony venue
-{% render "partials/warning-message" %}
+{% render "partials/warning-message.html" %}
 
 
 ## Cancellations and changes

@@ -25,7 +25,7 @@ Booking reference: {Booking_pkId} (You will need this reference number when payi
 
 
 ## Your ceremony venue
-{% render "partials/warning-message" %}
+{% render "partials/warning-message.html" %}
 
 Legally your ceremony must take place at the venue named on your notice. If after [giving notice](https://www.leeds.gov.uk/births-deaths-and-marriages/ceremonies/giving-your-notice-of-marriage-or-civil-partnership), you want to change the ceremony venue you will need to book and pay for another notice appointment.
 
