@@ -43,4 +43,5 @@ Please bring the following documents with you:
 - Photographic ID for both parents (e.g. passport, driving licence, biometric residence permit, permanent residence card). If you do not have photographic ID please bring birth certificates and proof of address for each parent 
 - Your bank card or cash if you wish to purchase birth certificates (£11 each) 
 
-{% include "partials/appt-change-privacy.md" %}
+## Change or cancel
+If you cannot attend your appointment, you can change or cancel it. Please email: register.headoffice@leeds.gov.uk or call 0113 2224408 (Monday to Friday, 9am to 4:30pm). Changes to your booking must be made at least 2 working days before your appointment.
