@@ -21,9 +21,6 @@ Customer reference: {Appointment_Id}{Appointment_Office_EmailText}
 
 Please arrive 10 minutes before your scheduled appointment; late arrival will mean that you will not be seen and your appointment will be rebooked.
 
-## Bus Strikes
-Please note, there are bus strikes from 18th June onwards. This may affect travel times getting to your registars appointment. For more info see [West Yorkshire Metro]( https://wymetro.com/).
-
 ## Attendance
   - If you are married (or in a civil partnership) only one parent needs to attend
   - If you are NOT married (or in a civil partnership) both parents need to attend if you wish for both parents names to be included on the birth certificate

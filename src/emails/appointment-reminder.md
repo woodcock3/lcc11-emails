@@ -21,9 +21,6 @@ Customer reference: {Appointment_Id}{Appointment_Office_EmailText}
 
 Please arrive 10 minutes before your scheduled appointment; late arrival will mean that you will not be seen and your appointment will be rebooked.
 
-## Bus Strikes
-Please note, there are bus strikes from 18th June onwards. This may affect travel times getting to your registars appointment. For more info see [West Yorkshire Metro]( https://wymetro.com/).
-
 ## Prepare for your appointment
 Find out what to bring and who should attend at [leeds.gov.uk](https://www.leeds.gov.uk/births-deaths-and-marriages). 
 
