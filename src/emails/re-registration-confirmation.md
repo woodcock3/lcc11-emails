@@ -44,7 +44,7 @@ Please bring the following documents with you:
 - Your bank card or cash if you wish to purchase birth certificates (£11 each) 
 
 ## Change or cancel
-If you cannot attend your appointment, you can change or cancel it. Please email: register.headoffice@leeds.gov.uk or call 0113 2224408 (Monday to Friday, 9am to 4:30pm). Changes to your booking must be made at least 2 working days before your appointment.
+If you cannot attend your appointment, you can change or cancel it. Please email: register.headoffice@leeds.gov.uk or call 0113 2224408 (Monday to Friday, 9am to 4:30pm). Changes to your booking must be made at least 2 working days before your appointment. Your change or cancel code is: {Appointment_RescheduleCancelCode}.
 
 ## Your privacy
 Please see our [privacy policy](https://www.leeds.gov.uk/registrarsprivacy) for information on how we process your personal data.

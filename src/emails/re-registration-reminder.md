@@ -26,7 +26,7 @@ Please arrive 10 minutes before your scheduled appointment; late arrival will me
 Find out what to bring and who should attend at [leeds.gov.uk](https://www.leeds.gov.uk/births-deaths-and-marriages). 
 
 ## Change or cancel
-If you cannot attend your appointment, you can change or cancel it. Please email: register.headoffice@leeds.gov.uk or call 0113 2224408 (Monday to Friday, 9am to 4:30pm). Changes to your booking must be made at least 2 working days before your appointment.
+If you cannot attend your appointment, you can change or cancel it. Please email: register.headoffice@leeds.gov.uk or call 0113 2224408 (Monday to Friday, 9am to 4:30pm). Changes to your booking must be made at least 2 working days before your appointment. Your change or cancel code is: {Appointment_RescheduleCancelCode}.
 
 ## Your privacy
 Please see our [privacy policy](https://www.leeds.gov.uk/registrarsprivacy) for information on how we process your personal data.
