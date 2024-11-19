@@ -1,21 +1,22 @@
 @use "sass:map";
+@use "sass:color";
 
 $color-primary: #003F55 !default;  // lcc dark blue
 $color-secondary: #2E7D32 !default;  // lcc green
-$color-background: mix($color-primary, #fff, 40%);
+$color-background: color.mix($color-primary, #fff, $weight: 40%, $method: rgb);
 
 $brand-colors: (
   "primary": $color-primary,
   "secondary": $color-secondary,
 ) !default;
 
-$color-body: scale-color(
+$color-body: color.scale(
   $color-primary,
   $lightness: -80%,
   $saturation: -20%
 ) !default;
 
-$colors: map-merge(
+$colors: map.merge(
   $brand-colors,
   (
     "text": $color-body,
@@ -26,7 +27,7 @@ $colors: map-merge(
 );
 
 @function color($key) {
-  @return map-get($colors, $key);
+  @return map.get($colors, $key);
 }
 
 // Add/remove to selectively generate `ink` (text color) classes
