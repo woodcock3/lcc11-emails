@@ -1,4 +1,5 @@
 @use "sass:map";
+@use "sass:color";
 @use "theme";
 @use "reset";
 
@@ -81,7 +82,7 @@ h3 {
   width: theme.$button-width;
   text-align: center;
   text-decoration: none;
-  box-shadow: 0 3px 0 darken(theme.$button-color, 10%);
+  box-shadow: 0 3px 0 color.adjust(theme.$button-color, $lightness: -10%); // darken 
   -webkit-text-size-adjust: none;
 }
 
