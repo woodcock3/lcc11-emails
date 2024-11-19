@@ -1,8 +1,8 @@
-const juice = require("juice");
-const meta = require("./src/_data/meta");
+import juice from "juice";
+import meta from "./src/_data/meta";
 const now = String(Date.now());
 
-module.exports = function (eleventyConfig) {
+export default async function (eleventyConfig) {
   // DEV SERVER
   eleventyConfig.setServerOptions({
     port: 8080,
@@ -17,6 +17,14 @@ module.exports = function (eleventyConfig) {
   // Add cache busting with {% version %} time string
   eleventyConfig.addShortcode('version', function () {
     return now
+  });
+
+  // Add cache busting by using {{ 'myurl' | version }}
+  eleventyConfig.addFilter("version", (url) => {
+    const [urlPart, paramPart] = url.split("?");
+    const params = new URLSearchParams(paramPart || "");
+    params.set("v", `${now}`);
+    return `${urlPart}?${params}`;
   });
   
   // Get current Year for text in footer using {% year %}

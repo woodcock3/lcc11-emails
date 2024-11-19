@@ -24,7 +24,7 @@
     <ul>
     {% for email in collections.emails %}
       {% assign crumbs = email.inputPath | split: '/' %}{%- assign current_page = crumbs.last | remove: ".md" | replace: "-", " " | capitalize | replace_first: "cp", "CP" | replace_first: "Cp", "CP" %}
-      <li><a href="{{ email.url | url }}?v={% version %}">{{ current_page }}</a></li>
+      <li><a href="{{ email.url | url | version }}">{{ current_page }}</a></li>
     {% endfor %}
     </ul>
   </main>

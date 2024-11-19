@@ -1,4 +1,4 @@
-module.exports = {
+const meta = {
   url: process.env.URL || "http://localhost:8080",
   environment: process.env.ELEVENTY_ENV,
 
@@ -30,3 +30,5 @@ module.exports = {
   phone: "+441132224408",
   ariaPhone: "phone number zero one one three two two two four four zero eight",
 };
+
+export default meta;

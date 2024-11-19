@@ -1,8 +1,9 @@
 {
   "name": "11ty-email-generator",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Use 11ty to generate html emails",
-  "main": ".eleventy.js",
+  "main": "eleventy.config.js",
+  "type": "module",
   "scripts": {
     "watch:sass": "sass  --no-source-map --watch src/sass:dist/css",
     "watch:eleventy": "ELEVENTY_ENV=dev @11ty/eleventy-dev-server --input=dist",
@@ -19,11 +20,11 @@
   "author": "5t3ph",
   "license": "ISC",
   "devDependencies": {
-    "@11ty/eleventy": "^2.0.1",
-    "concurrently": "^8.2.0",
-    "juice": "^9.0.0",
-    "lightningcss-cli": "^1.21.0",
-    "sass": "^1.63.4"
+    "@11ty/eleventy": "^3.0.0",
+    "concurrently": "^9.1.0",
+    "juice": "^11.0.0",
+    "lightningcss-cli": "^1.28.1",
+    "sass": "^1.81.0"
   },
   "browserslist": [
     "> 0.25%",

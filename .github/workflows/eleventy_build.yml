@@ -3,7 +3,7 @@ on: [push]
 
 # Conditional environmental if's      
 env:
-  UPDATE_NPM: false # false = deploy eleventy , true = update npm
+  UPDATE_NPM: true # false = deploy eleventy , true = update npm
 
 jobs:
   build_deploy_eleventy:
@@ -14,14 +14,19 @@ jobs:
         with:
           fetch-depth: 1
 
-      - name: Set up Node.js 16.x
+      - name: Set up Node.js 18.x
         uses: actions/setup-node@v3
         with:
-          node-version: '16'
+          node-version: '18'
           cache: 'npm'
 
       - name: Install dependencies
-        run: npm i # npm i #npm update --save
+        if: env.UPDATE_NPM != 'true'
+        run: npm i  # npm update --save
+        
+      - name: Update dependencies
+        if: env.UPDATE_NPM == 'true'
+        run: npm update --save
         
       - name: Npm Build
         if: env.UPDATE_NPM != 'true'
@@ -29,7 +34,7 @@ jobs:
         
       - name: Deploy
         if: env.UPDATE_NPM != 'true'
-        uses: peaceiris/actions-gh-pages@v3
+        uses: peaceiris/actions-gh-pages@v4
         with:
           publish_dir: ./dist 
           publish_branch: gh-pages
@@ -38,7 +43,7 @@ jobs:
           
       - name: pull request on npm update
         if: env.UPDATE_NPM == 'true'
-        uses: peter-evans/create-pull-request@v5
+        uses: peter-evans/create-pull-request@v6
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           commit-message: Update dependencies
@@ -50,3 +55,5 @@ jobs:
   
             [1]: https://github.com/peter-evans/create-pull-request
           branch: update-dependencies
+          add-paths: | # to update the package.json and package-lock.json
+            *.json
