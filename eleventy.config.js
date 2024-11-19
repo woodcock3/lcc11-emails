@@ -1,5 +1,5 @@
 import juice from "juice";
-import meta from "./src/_data/meta";
+import meta from "./src/_data/meta.js";
 const now = String(Date.now());
 
 export default async function (eleventyConfig) {
