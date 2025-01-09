@@ -15,6 +15,4 @@ Date: {Booking_DateOfCeremony}
 
 Time: {Booking_TimeOfCeremony}
 
-Please complete the back couple of pages and email them back to us. {Booking_LetterAdditionalText}
-
-{% render "partials/ceremony-privacy-t&c.md" %}
+Please complete the ceremony checklist (back couple of pages) and email it back to us. {Booking_LetterAdditionalText}
