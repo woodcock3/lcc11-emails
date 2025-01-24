@@ -34,6 +34,10 @@ You both must bring a recent passport photo (if one of you is not British, Irish
 
 For further information please see the attached Giving Notice checklist regarding the documents you will need to bring to the appointment.
 
+## eVisa
+If you have an eVisa you will need to get a sharecode to prove your immigration status at the appointment.
+
+{% include "partials/sharecode-button.html" %}
 
 ## Interpreters
 You must bring your own interpreter to the appointment if either you or your partner struggles to speak or understand English. Please be aware, you are not allowed to translate on behalf of each other.
