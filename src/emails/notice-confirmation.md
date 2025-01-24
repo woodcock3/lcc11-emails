@@ -35,7 +35,7 @@ You both must bring a recent passport photo (if one of you is not British, Irish
 For further information please see the attached Giving Notice checklist regarding the documents you will need to bring to the appointment.
 
 ## eVisa
-If you have an eVisa you will need to get a sharecode to prove your immigration status at the appointment.
+If you have an eVisa you must get a sharecode to prove your immigration status at the appointment.
 
 {% include "partials/sharecode-button.html" %}
 
