@@ -1,6 +1,6 @@
 ---
-subject: Your ceremony pack
-preheader: Your ceremony pack 
+subject: Payment pending problem
+preheader: Payment pending problem 
 hidePreheader: true
 headline: Payment pending problem
 ---
