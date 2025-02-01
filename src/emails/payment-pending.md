@@ -16,4 +16,4 @@ Please email <a href="mailto:{{ meta.email }}">{{ meta.email }}</a> with the fol
   - what you were trying to book / order, and
   - the date, time and venue you were trying to book or the certificate order you were trying to make
 
-So that the registrars can check if your payment and booking or order completed.
+So that the registrars can check if your payment, booking or order completed.
