@@ -7,7 +7,7 @@ headline: Payment pending problem
 
 There is a problem with your payment and your order or booking may not have completed.
 
-Please email <a class="ink-light" style="color: #fff;" href="mailto:{{ meta.email }}">{{ meta.email }}</a> with the following information:
+Please email <a href="mailto:{{ meta.email }}">{{ meta.email }}</a> with the following information:
 
   - your name,
   - the date you paid,
